@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mega on ACG资源导航站</title><link>https://v2acg.github.io/tags/mega/</link><description>Recent content in Mega on ACG资源导航站</description><generator>Hugo -- 0.155.3</generator><language>zh-cn</language><lastBuildDate>Tue, 10 Feb 2026 02:38:43 +0000</lastBuildDate><atom:link href="https://v2acg.github.io/tags/mega/index.xml" rel="self" type="application/rss+xml"/><item><title>【rpg/生肉】VoidBound 0.6.9 Alpha Release【度盘/Mega】</title><link>https://v2acg.github.io/posts/gck0occoc00o4w84/</link><pubDate>Tue, 10 Feb 2026 02:38:43 +0000</pubDate><guid>https://v2acg.github.io/posts/gck0occoc00o4w84/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/8863de8c2c7c494eb34c3e44147452e2" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;f95上迟迟未更新，正好今天作者自称更新了个大的，就自购发上来了
+原作者赞助链接：Cursed Atelier | Patreon&lt;/p&gt;
+&lt;p&gt;以下为机翻介绍
+期待已久，赞助者们！&lt;/p&gt;
+&lt;p&gt;Alpha 0.6.9 今天正式上线，现已面向支持者及以上支持者开放。&lt;/p&gt;
+&lt;p&gt;这次更新更深入地推进了主线故事，从Caly举办一场温馨的晚宴开始，结果不知怎么地演变成与太空海盗的冲突？这到底是怎么发生的？&lt;/p&gt;
+&lt;p&gt;你将在探索一个充满恶劣居民的新目的地时发现真相，这些居民最想囚禁凯莉，把她变成他们珍视的……牛。&lt;/p&gt;
+&lt;p&gt;VoidBound 0.6.9 [Alpha版本]：&lt;/p&gt;
+&lt;p&gt;这次更新紧接主线任务，紧接着凯莉从噩梦般的昏迷中醒来。如果你还没到那个阶段，请继续正常游戏。&lt;/p&gt;
+&lt;p&gt;继续使用旧存档的玩家： 如果你已经完成了Xaide任务线，请前往 Caly房间的Mr. Fixer，选择“➡️触发新内容&amp;gt;0.6.9”。然后选择任务“复仇：狩猎开始”。&lt;/p&gt;
+&lt;p&gt;无论如何，一旦玩家激活了任务，就前往欢乐区的赏金公会。此时任务链会自动触发。&lt;/p&gt;
+&lt;p&gt;⚠️
+警告：如果你还没完成前置任务，请不要使用这个功能。这样做可能会导致游戏崩溃并存档！&lt;/p&gt;
+&lt;p&gt;让我们来看看这本书里的一些新内容吧！&lt;/p&gt;
+&lt;p&gt;内容亮点：&lt;/p&gt;
+&lt;p&gt;寻找开始&lt;/p&gt;
+&lt;p&gt;自从她从赛德那场创伤性的归来后，卡莉就一直没有安静过。即使康复后，她仍被乌尔图队长的幽灵所困扰，这似乎正在对她的心理造成影响。&lt;/p&gt;
+&lt;p&gt;哈尔担心复仇的追求会吞噬她。于是，他建议朋友们共度一个愉快的夜晚。&lt;/p&gt;
+&lt;p&gt;意外的客人&lt;/p&gt;
+&lt;p&gt;本该是朋友间安静的夜晚，却被一股未知的力量突然打破，将Caly的神经推向极限。很明显，乌尔图人并不打算放过她。于是，她决定主动出击。&lt;/p&gt;
+&lt;p&gt;但扭转帝国局势的关键落入了海盗手中，凯莉必须冒着自己的未来风险，才能在这场致命的猫鼠游戏中领先一步。&lt;/p&gt;
+&lt;p&gt;缓存系统&lt;/p&gt;
+&lt;p&gt;你们中许多人可能还记得我们在最近的进展报告中提到过缓存系统。这已经是我们努力的核心重点有一段时间了。虽然系统已经在游戏中，但这次更新彻底改造，比以前智能得多。&lt;/p&gt;
+&lt;p&gt;像图片这样的素材会在你游玩时安静地在后台加载，而不是一次性全部加载。因此，加载时间整体应明显缩短——尤其是低端系统和烤面包机。&lt;/p&gt;
+&lt;p&gt;————————
+-更改日志：
+🔹 新内容： 💡&lt;/p&gt;
+&lt;p&gt;新增了6个H场景和2个坏结局。&lt;/p&gt;
+&lt;p&gt;新增163张适合工作场所和成人内容的图片。&lt;/p&gt;
+&lt;p&gt;新增了29个自定义精灵。&lt;/p&gt;
+&lt;p&gt;新增了8张地下城地图。&lt;/p&gt;
+&lt;p&gt;新增了晚餐场景任务线。&lt;/p&gt;
+&lt;p&gt;新增了兽人海盗任务线。&lt;/p&gt;
+&lt;p&gt;新增了3个Boss和4个普通敌人。&lt;/p&gt;</description></item><item><title>【ADV/AI机翻】みんなの育乳アカデミー ～桃色おっぱい研修録～【Mega/4.87G】</title><link>https://v2acg.github.io/posts/8o0g08wc800gow45/</link><pubDate>Mon, 02 Feb 2026 03:05:23 +0000</pubDate><guid>https://v2acg.github.io/posts/8o0g08wc800gow45/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/1af9e6b5e90b4bef8670111d40f695d5" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;25/09/26&lt;/p&gt;
+&lt;p&gt;作品内容&lt;/p&gt;
+&lt;p&gt;Getchu界面：点击&lt;/p&gt;
+&lt;p&gt;游戏官网：点击&lt;/p&gt;
+&lt;p&gt;作品紹介&lt;/p&gt;
+&lt;p&gt;STORY&lt;/p&gt;
+&lt;p&gt;※引言 …… 所谓【育乳】，是指
+不依赖手术或药物，仅凭人手或简单工具使乳房增大的方法。
+而掌握此技者，被称为【育乳师】。&lt;/p&gt;
+&lt;p&gt;这是一个颜值至上主义被抛在脑后、胸部至上的时代。
+社会中所有职业都开始追求视觉吸引力……
+无论男女，人人皆渴求丰满的乳房。&lt;/p&gt;
+&lt;p&gt;在丰胸手术日益增多的当下，世界迎来了一线新的曙光——
+一位无需手术、仅凭自然力量便能令乳房成长的男性出现了。&lt;/p&gt;
+&lt;p&gt;他的技术被称为“育乳”，为世间所有女性带来了巨乳的福音。
+育乳技术被不断研究，培育出众多“育乳师”，
+最终，专门的教育机构应运而生。&lt;/p&gt;
+&lt;p&gt;这所学园名为“御津杯学园”。
+因缘际会下，成为该校“育乳实习生”的“宗山 育”，
+决心通过亲手揉触所有乳房，穷极“育乳”之道。&lt;/p&gt;
+&lt;p&gt;然而，实习第一天就因妹妹“真白”的失言，导致学员寥寥无几。
+照此下去，莫说精进育乳之术，连实习生资格都岌岌可危！？&lt;/p&gt;
+&lt;p&gt;宗山育波澜起伏的日常，就此拉开序幕。&lt;/p&gt;
+&lt;p&gt;STAFF&lt;/p&gt;
+&lt;p&gt;剧本: 上島向陽　篠尾カズノリ、箒星
+原画: ゆなまろ、ぺい、黒結、望月望
+开发: えどわ～る&lt;/p&gt;
+&lt;p&gt;CAST&lt;/p&gt;
+&lt;p&gt;宗山ましろ (CV：赤月ゆむ)
+夜風優声 (CV：岡本理絵)
+柴葉藤美咲 (CV：中村麻未)
+甘瓜澄果 (CV：友永朱音)
+小野山孤虎 (CV：小倉結衣)
+小野山恋琴 (CV：花月さや)
+海原つぶら (CV：尾崎真実)
+空井律 (CV：叶一華)
+神崎美奈子 (CV：井上みゆ)
+籾山豊実 (CV：小山さほみ)
+宗山紅 (CV：深田紗記子)
+宝月ルーシー (CV：朝比奈幸)
+遊部鳳梨 (CV：清水美紗)
+桃山未来 (CV：みたかりん)
+柴葉藤紅葉 (CV：波野夏花)
+岡上朝陽 (CV：梅宮ここ)
+小野山古都美 (CV：水野七海)
+木根梓 (CV：乙倉由依)
+新島つばめ (CV：北村彩)
+白絹むつみ (CV：榎木実佳)
+白部照代 (CV：黒瀬アイル)
+不破ふわわ (CV：藤沢れい香)&lt;/p&gt;</description></item><item><title>【ADV/生肉】ラブラブお痴験バイト性活 -怪しいクスリでフル勃〇！モテまくりヤリまくりで人生大逆転-【Mega/2.6G】</title><link>https://v2acg.github.io/posts/goss0cowko00ko4a/</link><pubDate>Mon, 02 Feb 2026 03:03:29 +0000</pubDate><guid>https://v2acg.github.io/posts/goss0cowko00ko4a/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/e3ec86246ba14b4c896a693fa95c203e" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;25/09/26&lt;/p&gt;
+&lt;p&gt;作品内容&lt;/p&gt;
+&lt;p&gt;Getchu界面：点击&lt;/p&gt;
+&lt;p&gt;游戏官网：点击&lt;/p&gt;
+&lt;p&gt;作品紹介&lt;/p&gt;
+&lt;p&gt;STORY&lt;/p&gt;
+&lt;p&gt;为下身短小而苦恼的我，服用试验药【O-1919】后竟成持久强者，逆袭人生！&lt;/p&gt;
+&lt;p&gt;“‘又短又小！？早泄。废柴。我们分手吧。’”&lt;/p&gt;
+&lt;p&gt;在东京读大学的落魄穷学生【影暗智雄】，因前女友这番话深受打击，陷入了勃起功能障碍的阴影。&lt;/p&gt;
+&lt;p&gt;正当智雄跌入绝望谷底时，某天偶然听到一则神秘的【药物试验兼职】传闻——据说需要住进深山的医院一个月，参与ED治疗药物的临床实验……&lt;/p&gt;
+&lt;p&gt;抱着抓住救命稻草的心态，智雄报名参加了实验。
+试验药【O-1919】竟让他获得了巨根与持久的精力，逐渐重拾男子气概与自信。&lt;/p&gt;
+&lt;p&gt;……然而，药效似乎有些过头了。
+再这样下去，下身恐怕会爆裂而亡！？&lt;/p&gt;
+&lt;p&gt;“想缓解勃起状态，只能通过性行为解决！”
+“什么——！？”&lt;/p&gt;
+&lt;p&gt;刚尝到男人滋味的温顺护士，【宇佐神透羽】
+把智雄当小白鼠般“疼爱”的主治医师，【宇佐神香织】
+偶然重逢的前女友，【丹叶比姬乃】
+热衷色色与角色扮演的兼职伙伴，【梅格】&lt;/p&gt;
+&lt;p&gt;他与这四位女性之间，火热又羞耻的药物试验兼职生活，就此拉开序幕……&lt;/p&gt;
+&lt;p&gt;STAFF&lt;/p&gt;
+&lt;p&gt;开发: ensemble SWEET
+剧本: 空下元
+企画: 空下元
+原画: izu藻、さくれいん、トコビ&lt;/p&gt;
+&lt;p&gt;CAST&lt;/p&gt;
+&lt;p&gt;丹葉比姫乃 (CV：水野七海)
+メグ (CV：みたかりん)
+宇佐神香織(CV：萌葱みどり)
+宇佐神透羽 (CV：小倉結衣)&lt;/p&gt;
+&lt;p&gt;CHARACTER&lt;/p&gt;
+&lt;p&gt;丹叶 比姬乃（Tanba Himeno）
+与智雄就读同一所大学的女生。
+是智雄的初次性经验对象。&lt;/p&gt;</description></item></channel></rss>

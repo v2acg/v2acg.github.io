@@ -1,0 +1,2008 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>生肉 on ACG资源导航站</title><link>https://v2acg.github.io/tags/%E7%94%9F%E8%82%89/</link><description>Recent content in 生肉 on ACG资源导航站</description><generator>Hugo -- 0.155.3</generator><language>zh-cn</language><lastBuildDate>Tue, 10 Feb 2026 02:38:43 +0000</lastBuildDate><atom:link href="https://v2acg.github.io/tags/%E7%94%9F%E8%82%89/index.xml" rel="self" type="application/rss+xml"/><item><title>【rpg/生肉】VoidBound 0.6.9 Alpha Release【度盘/Mega】</title><link>https://v2acg.github.io/posts/gck0occoc00o4w84/</link><pubDate>Tue, 10 Feb 2026 02:38:43 +0000</pubDate><guid>https://v2acg.github.io/posts/gck0occoc00o4w84/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/8863de8c2c7c494eb34c3e44147452e2" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;f95上迟迟未更新，正好今天作者自称更新了个大的，就自购发上来了
+原作者赞助链接：Cursed Atelier | Patreon&lt;/p&gt;
+&lt;p&gt;以下为机翻介绍
+期待已久，赞助者们！&lt;/p&gt;
+&lt;p&gt;Alpha 0.6.9 今天正式上线，现已面向支持者及以上支持者开放。&lt;/p&gt;
+&lt;p&gt;这次更新更深入地推进了主线故事，从Caly举办一场温馨的晚宴开始，结果不知怎么地演变成与太空海盗的冲突？这到底是怎么发生的？&lt;/p&gt;
+&lt;p&gt;你将在探索一个充满恶劣居民的新目的地时发现真相，这些居民最想囚禁凯莉，把她变成他们珍视的……牛。&lt;/p&gt;
+&lt;p&gt;VoidBound 0.6.9 [Alpha版本]：&lt;/p&gt;
+&lt;p&gt;这次更新紧接主线任务，紧接着凯莉从噩梦般的昏迷中醒来。如果你还没到那个阶段，请继续正常游戏。&lt;/p&gt;
+&lt;p&gt;继续使用旧存档的玩家： 如果你已经完成了Xaide任务线，请前往 Caly房间的Mr. Fixer，选择“➡️触发新内容&amp;gt;0.6.9”。然后选择任务“复仇：狩猎开始”。&lt;/p&gt;
+&lt;p&gt;无论如何，一旦玩家激活了任务，就前往欢乐区的赏金公会。此时任务链会自动触发。&lt;/p&gt;
+&lt;p&gt;⚠️
+警告：如果你还没完成前置任务，请不要使用这个功能。这样做可能会导致游戏崩溃并存档！&lt;/p&gt;
+&lt;p&gt;让我们来看看这本书里的一些新内容吧！&lt;/p&gt;
+&lt;p&gt;内容亮点：&lt;/p&gt;
+&lt;p&gt;寻找开始&lt;/p&gt;
+&lt;p&gt;自从她从赛德那场创伤性的归来后，卡莉就一直没有安静过。即使康复后，她仍被乌尔图队长的幽灵所困扰，这似乎正在对她的心理造成影响。&lt;/p&gt;
+&lt;p&gt;哈尔担心复仇的追求会吞噬她。于是，他建议朋友们共度一个愉快的夜晚。&lt;/p&gt;
+&lt;p&gt;意外的客人&lt;/p&gt;
+&lt;p&gt;本该是朋友间安静的夜晚，却被一股未知的力量突然打破，将Caly的神经推向极限。很明显，乌尔图人并不打算放过她。于是，她决定主动出击。&lt;/p&gt;
+&lt;p&gt;但扭转帝国局势的关键落入了海盗手中，凯莉必须冒着自己的未来风险，才能在这场致命的猫鼠游戏中领先一步。&lt;/p&gt;
+&lt;p&gt;缓存系统&lt;/p&gt;
+&lt;p&gt;你们中许多人可能还记得我们在最近的进展报告中提到过缓存系统。这已经是我们努力的核心重点有一段时间了。虽然系统已经在游戏中，但这次更新彻底改造，比以前智能得多。&lt;/p&gt;
+&lt;p&gt;像图片这样的素材会在你游玩时安静地在后台加载，而不是一次性全部加载。因此，加载时间整体应明显缩短——尤其是低端系统和烤面包机。&lt;/p&gt;
+&lt;p&gt;————————
+-更改日志：
+🔹 新内容： 💡&lt;/p&gt;
+&lt;p&gt;新增了6个H场景和2个坏结局。&lt;/p&gt;
+&lt;p&gt;新增163张适合工作场所和成人内容的图片。&lt;/p&gt;
+&lt;p&gt;新增了29个自定义精灵。&lt;/p&gt;
+&lt;p&gt;新增了8张地下城地图。&lt;/p&gt;
+&lt;p&gt;新增了晚餐场景任务线。&lt;/p&gt;
+&lt;p&gt;新增了兽人海盗任务线。&lt;/p&gt;
+&lt;p&gt;新增了3个Boss和4个普通敌人。&lt;/p&gt;</description></item><item><title>【SLG/生肉/PC/VR】異世界勇者と女戦士のパラレルライフXR</title><link>https://v2acg.github.io/posts/s0ogs08cwookkwok/</link><pubDate>Tue, 10 Feb 2026 02:38:05 +0000</pubDate><guid>https://v2acg.github.io/posts/s0ogs08cwookkwok/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/adb8310063e74010962ba8a65ba8b0d4" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;因一场意外转生至异世界的废柴尼特族，竟突然成为勇者！
+在异世界活跃期间，他利用”勇者头衔”不断挑战同伴女战士的底线，尝试各种恶作剧。
+顺从的女战士艾莉为勇者大人着想而接受这些行为，然而……&lt;/p&gt;
+&lt;p&gt;本内容仅适用于MetaQuest 2/3设备。
+另支持VR模式，即使在透视画质较低的Quest2设备上也能畅玩。
+关于任务安装方法及使用链接线缆的操作流程，详见DLzip文件内的
+Readme文本文件，敬请参阅。&lt;/p&gt;
+&lt;p&gt;↑这是我前几天在站内看到的VR游戏（【SLG/生肉】異世界勇者と女僧侶のパラレルライフ（RJ01550002）），我上DLsite找了找，就找到了这个社团的前作，我买了后尝试了下，只能说和新作大差不差，新作有哥布林和勇者两个大场景，该作就只有和勇者做。&lt;/p&gt;
+&lt;p&gt;因为我用的是pico4，把quest专用的apk用overport软件转的，然后发现有一个bug——左控制窗口在尝试了几个姿势后会移动到不知道什么地方去，导致点不了。这时候退出重进就好了。然后控制界面上下滑动的手感也是一坨史。这部分新作就好得多，控制界面位置合理。&lt;/p&gt;
+&lt;p&gt;然后涩涩的体验部分新旧两作差不多，毕竟是同一家社团的作品。唯一的遗憾就是由于是pico开不了游戏内透视。&lt;/p&gt;</description></item><item><title>【SLG/生肉】妹と過ごす1ヵ月間/与妹妹一起度过一个月 ver.2026.02【度盘/376MB】</title><link>https://v2acg.github.io/posts/c0o4o808ok888ss5/</link><pubDate>Tue, 10 Feb 2026 02:37:25 +0000</pubDate><guid>https://v2acg.github.io/posts/c0o4o808ok888ss5/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/e7e5201143ab480cabbf3c92b4f3a374" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;妹と過ごす1ヵ月間/与妹妹一起度过一个月 ver.2026.02&lt;/p&gt;
+&lt;p&gt;入正链接:&lt;/p&gt;
+&lt;p&gt;作品信息:&lt;/p&gt;
+&lt;p&gt;社团名
+やくも牛乳&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年02月01日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有声音有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;v2026.02更新介绍：• 内容追加• 色情场景相关正常位的拔出动作追加作为过去收到的需求内容，现已追加正常位的拔出动作。&lt;/p&gt;
+&lt;p&gt;• 在慢速模式动画的情况下，内射后可通过切换按钮切换到拔出动作。&lt;/p&gt;
+&lt;p&gt;拔出时的精液溢出描写追加此外，同样作为收到需求的内容，在上述拔出动作时增加了精液溢出的描写。&lt;/p&gt;
+&lt;p&gt;• 本动画是断面图中显示的子宫状部位已满时，仅在额外进行内射的条件下才会播放的特殊演出。
+• 如果子宫状部位仍有空间，则内射的精液会储存在那里，敬请留意。&lt;/p&gt;
+&lt;p&gt;后入位的台词演出追加作为对已实装色情动画的演出强化，现已为后入位动画添加了台词演出显示功能。&lt;/p&gt;
+&lt;p&gt;• 台词演出可在左上菜单中选择“显示台词演出”并勾选后显示，请根据喜好使用。&lt;/p&gt;
+&lt;p&gt;• 新事件相关店员小姐留宿事件追加作为可疑店铺店员小姐的新事件，追加了朋友状态下的留宿事件。&lt;/p&gt;
+&lt;p&gt;• 在已完成前两次约会事件的前提下，到第20天时即可邀请她到自家留宿。
+• 图库相关本月追加的店员小姐留宿事件的CG场景，现已在图库中新增。
+• 除了此事件外，本月强化演出的正常位与后入位内容，为便于尝试，在图库内已设为常时开放状态。&lt;/p&gt;
+&lt;p&gt;游戏介绍：这是一款你和妹妹一起生活的模拟生活游戏她会和在女子学校长大的妹妹一起度过怎样的一个月，又会有怎样的结局呢？这是一款带有情色动画的温馨生活游戏&lt;/p&gt;</description></item><item><title>【SLG/生肉】 嘘吐き悪魔と正直シスター【度盘/273MB】</title><link>https://v2acg.github.io/posts/swwg4c8sss484gkr/</link><pubDate>Mon, 09 Feb 2026 03:04:07 +0000</pubDate><guid>https://v2acg.github.io/posts/swwg4c8sss484gkr/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/0cdd7e5f51184347b7d063bb19c15641" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01477439】嘘吐き悪魔と正直シスター&lt;/p&gt;
+&lt;p&gt;入正链接：&lt;/p&gt;
+&lt;p&gt;作品信息:&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;820陶芸工房&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年02月06日 0时&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;820陶芸工房&lt;/p&gt;
+&lt;p&gt;剧情&lt;/p&gt;
+&lt;p&gt;820陶芸工房&lt;/p&gt;
+&lt;p&gt;插画&lt;/p&gt;
+&lt;p&gt;820陶芸工房 / SOWA&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有配音有动画&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;动画 触摸/抚摸 玩具 修女 沉迷快乐/快乐堕落 肛交 羞耻/耻辱 乳头刺激&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;172.61MB&lt;/p&gt;
+&lt;p&gt;配置要求&lt;/p&gt;
+&lt;p&gt;マウス使用/ 一部の便利機能にキー入力を使用&lt;/p&gt;
+&lt;p&gt;游戏介绍：修女身上附着了“说谎的恶魔”，通过触摸使其身体变得“诚实”并加以惩戒的“驱魔师模拟ADV”。这是一款融合了“触摸Live2D×修女×附身题材×羞耻心×背德感”的仿ERO-FLASH风格游戏！&lt;/p&gt;
+&lt;p&gt;・动作总数：总计300种以上！・Live2D模型：共5个（剧情用3个+附加2个）！・插画数量：3张（不含差分）・预计游戏时长：约一个半至两小时&lt;/p&gt;
+&lt;p&gt;本游戏采用“情色PDCA循环”的游戏体验管理手法，通过循环推进“计划-执行-检查-行动”，持续优化游玩体验并提升沉浸感。&lt;/p&gt;
+&lt;p&gt;“情色PDCA循环”(1)P…Push/Pull（触摸）通过“点击”或“长按”进行“触摸”。
+(2)D…Dosukebe（好色）被“触摸”时，会根据当前计量槽数值及“诚实度”做出“好色反应”。
+(3)C…Change（身体状态变化）“好色反应”发生时，会同步引发计量槽上升或“诚实度”的“变化”。&lt;/p&gt;
+&lt;p&gt;(4)A…Action（采取下一步行动）“诚实度”的“变化”将推动剧情发展，进入“下一步行动”。（※随后再次回到(1)）&lt;/p&gt;</description></item><item><title>【SLG/生肉】 さきゅっと♡アイドルマネジメント！（RJ01529476）</title><link>https://v2acg.github.io/posts/kw4sw0o0coc8k80o/</link><pubDate>Mon, 09 Feb 2026 03:02:55 +0000</pubDate><guid>https://v2acg.github.io/posts/kw4sw0o0coc8k80o/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/0755d5c67a554c1db8e915d80f432848" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;DrGobzLab&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年02月06日 0时&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;其他&lt;/p&gt;
+&lt;p&gt;部分使用AI&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;艺人/偶像/模特 魅魔/淫魔 少女 雌小鬼 萝 内射/中出 通奸/和奸 双马尾&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;1.15GB&lt;/p&gt;
+&lt;p&gt;《与魅魔尽情H》&lt;/p&gt;
+&lt;p&gt;魅魔莉莉卡凭借她的魅惑之力在演艺圈大杀四方。
+为了提升她的力量，作为经纪人的你要不断向她提供“精力”！
+H场景采用了3D与2D融合的表现形式。&lt;/p&gt;
+&lt;p&gt;指令选择式模拟游戏&lt;/p&gt;
+&lt;p&gt;在主线部分，通过工作来提升莉莉卡的人气。
+人气上升后，主线剧情会推进，内容也会变得更加H！&lt;/p&gt;
+&lt;p&gt;游玩小游戏赚取金钱！&lt;/p&gt;
+&lt;p&gt;根据小游戏的通关结果，
+好感度、人气以及金钱数量都会发生变化。
+为了享受充满H的日常，好好完成工作吧。
+不擅长的小游戏也可以使用道具跳过。&lt;/p&gt;
+&lt;p&gt;按自己喜好自定义服装！&lt;/p&gt;
+&lt;p&gt;水手服、运动短裤、旧式学校泳装、微型比基尼、魅魔装 +α
+为了拓展H场景与故事内容，准备了多种服装。
+请为她换上自己喜欢的服装来享受吧。&lt;/p&gt;
+&lt;p&gt;◇支持 / 联系方式&lt;/p&gt;</description></item><item><title>【SLG/生肉】昼と夜のアナウンサー（RJ01553084）</title><link>https://v2acg.github.io/posts/co88ccg044k44c80/</link><pubDate>Mon, 09 Feb 2026 02:43:25 +0000</pubDate><guid>https://v2acg.github.io/posts/co88ccg044k44c80/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/e9abb3528cb648c5b0b8fd0583dfe7f1" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;湿った春風&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月28日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有配音有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;3D作品 办公室/职场 放尿/小便 阴毛/腋毛 乳头/乳晕 扶她&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;242.32MB&lt;/p&gt;
+&lt;p&gt;挑战梦想的女播音员&lt;/p&gt;
+&lt;p&gt;在方形电视画面曾是娱乐之王的时代，
+一位乡下少女为了实现梦想，向大都市发起挑战。&lt;/p&gt;
+&lt;p&gt;她的梦想，是成为一名播音员。&lt;/p&gt;
+&lt;p&gt;她投身于激烈的竞争之中，立志夺得主播之位。
+等待着她的，会是荣耀吗？
+又或者，是以梦想为诱饵、将女性当作猎物的性剥削陷阱呢？&lt;/p&gt;
+&lt;p&gt;她的命运，寄托在作为商量对象的青梅竹马身上。&lt;/p&gt;
+&lt;p&gt;育成模拟游戏&lt;/p&gt;
+&lt;p&gt;本作是一款培养播音员的简单模拟养成游戏。
+通过选择选项来提升各项属性、恢复体力。
+获取道具，以高效率培养为目标，力争通过试镜。&lt;/p&gt;
+&lt;p&gt;除了知识与技术之外，还存在“性接待”这一属性。
+提升性接待数值，可以让试镜过程更为有利。
+不过，若想达成Happy End（幸福结局），则必须在性接待保持为0的状态下通关。
+在幸福结局路线中，可以在不遭遇性剥削的情况下完成游戏。&lt;/p&gt;
+&lt;p&gt;真实的3D色情场景&lt;/p&gt;
+&lt;p&gt;女主角十分纯真，认为只要努力就能实现梦想。
+然而，本作中的电视业界并没有那么单纯。&lt;/p&gt;
+&lt;p&gt;在中期试镜中，会进行践踏自尊的性骚扰式面试。
+原本纯洁的她，也可能逐渐染指自己曾厌恶的陋习——
+例如性接待、上贡等行为。&lt;/p&gt;</description></item><item><title>【SLG/生肉】マッサージ店運営 おさわりシミュレーション RELAMAX【度盘/288MB】</title><link>https://v2acg.github.io/posts/00k088s40kwccckt/</link><pubDate>Mon, 09 Feb 2026 02:42:00 +0000</pubDate><guid>https://v2acg.github.io/posts/00k088s40kwccckt/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/8e20eb59a680439da49b603d88ad6162" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01531564】マッサージ店運営 おさわりシミュレーション RELAMAX&lt;/p&gt;
+&lt;p&gt;入正链接:&lt;/p&gt;
+&lt;p&gt;作品信息:&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;まかない袋&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月28日&lt;/p&gt;
+&lt;p&gt;更新信息&lt;/p&gt;
+&lt;p&gt;2026年02月04日&lt;/p&gt;
+&lt;p&gt;更新信息&lt;/p&gt;
+&lt;p&gt;插画&lt;/p&gt;
+&lt;p&gt;のおまる&lt;/p&gt;
+&lt;p&gt;声优&lt;/p&gt;
+&lt;p&gt;水戸ありす / 土崎みなと / 遠野あお&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有配音&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;触摸/抚摸 玩具 道具/异物 按摩 潮吹 乳头刺激 内射/中出 乳交&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;144.97MB&lt;/p&gt;
+&lt;p&gt;游戏介绍：&lt;/p&gt;
+&lt;p&gt;你作为按摩店“Relax”的店长，任务是让顾客满意、逐步提升口碑评价等级。随着等级提高，你将解锁各种按摩技法、沟通技巧以及道具。&lt;/p&gt;
+&lt;p&gt;按摩场景采用完整的Live2D模型，能够响应点击和拖拽操作并呈现相应动画。根据状态变化，可使用的按摩手法和顾客的反应也会有所不同。请灵活运用技巧，尽情享受顾客的各种失态表现吧。&lt;/p&gt;
+&lt;p&gt;游戏内还附带了已解锁玩家技能等的存档数据。（可跳过约4小时的游戏流程）。&lt;/p&gt;</description></item><item><title>【ACT/生肉】リンネのリビア v20260203【度盘/1.24G】</title><link>https://v2acg.github.io/posts/kcooss8kk40488es/</link><pubDate>Fri, 06 Feb 2026 05:46:31 +0000</pubDate><guid>https://v2acg.github.io/posts/kcooss8kk40488es/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/629518cb94de48a0a73b2e01de9e00de" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;リンネのリビア v20260203&lt;/p&gt;
+&lt;p&gt;入正链接:&lt;/p&gt;
+&lt;p&gt;作品信息:&lt;/p&gt;
+&lt;p&gt;社团名
+Tora Creatives&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年02月03日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;动作&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;晚上好，这里是绘取真的非常抱歉，让大家久等了！距离上次更新竟然已经过去了整整3个月&lt;/p&gt;
+&lt;p&gt;不知不觉关注已经有10000人了，真的非常感谢大家，这个这个游戏的开发中间出现了各种各样的波折，即使这样，大家还是在关注，真的非常感谢，真的无地自容&lt;/p&gt;
+&lt;p&gt;在上篇日志里提到的“第二个月发布日期”前，我这边发生了一连串的突发状况
+首先是身体亮了红灯，导致我有一个月左右的时间完全无法坐在电脑前&lt;/p&gt;
+&lt;p&gt;紧接着，更倒霉的事情发生了——硬盘坏了当时最新的工程文件直接“蒸发”，虽然万幸还有备份，但还是丢失了大量的进度，甚至连一些以前做好的内容都没了……&lt;/p&gt;
+&lt;p&gt;稍微心态有些变糟了&lt;/p&gt;
+&lt;p&gt;休息了一个月调整状态后，我想着：既然都要重来，不如干脆借这个机会把底层代码彻底重置优化一遍于是，在恢复状态并沿用旧工程重新开发的这段时间里，我做了大量的调整和新内容的铺垫&lt;/p&gt;
+&lt;p&gt;好消息是，这次总算是有Demo了&lt;/p&gt;
+&lt;p&gt;不过demo还有还有大量的问题存在，但是感觉实在不能再消失了，至少先让大家知道我还健在，游戏的制作也还在继续，总之先把目前的进度发上来，我会在最近一段时间每天进行修复尽可能的减少问题&lt;/p&gt;
+&lt;p&gt;另外今天的版本没有中文和日文，它们还存在一些问题，我会在明天或者后天重新上传多语言版本
+下面向大家汇报一下目前的开发进度和改动：&lt;/p&gt;
+&lt;p&gt;这次的更新内容（包含这两天的fix）1.尝试更换了对话UI以前统一是用气泡框，这次我试着换成了Galgame常见的底部文本框+立绘的形式&lt;/p&gt;
+&lt;p&gt;2.快捷背包系统现在按ESC在背包菜单里，可以把道具放入“快捷栏”之后在游戏中按住TAB键，再配合Q或E就能快速切换，松开TAB直接使用&lt;/p&gt;
+&lt;p&gt;3.BOSS血条升级现在的BOSS血条UI更好看了，还会显示BOSS称号&lt;/p&gt;
+&lt;p&gt;4.现在莉薇娅使用元素药水进入对应模式会有时间限制，而且药水需要装备到药水带上简单来说，虽然稍微麻烦了一点，但我觉得这样才符合莉薇娅“炼金术士”的身份，战斗前需要精心准备药水，而不是随手开个开关当然，为了配合这个改动，怪物现在会掉落合成材料，打怪也变得更有价值了一些&lt;/p&gt;
+&lt;p&gt;5.行商梅尔登场赫尔西恩商会的梅尔实装了她会随机在各处出现，大家可以找她买卖道具，她想要的东西每次都不一样，给出的价格也不一样&lt;/p&gt;
+&lt;p&gt;6.酒馆打工小游戏（初版）为了换取妮娜的情报，莉薇娅可能需要支付报酬或者……打工！目前玩法还比较粗糙，L2D也还没实装（暂时先用静态图顶一下），大家先凑合试试看&lt;/p&gt;
+&lt;p&gt;7.酒馆的歌声现在酒馆里多了一位驻唱的吟游诗人，靠近她就能听到她在唱歌
+8.BOSS战败特写当BOSS战败时，镜头会自动拉近，并切换为不显示立绘的Galgame风格底部文本框&lt;/p&gt;
+&lt;p&gt;9.BOSS战败的L2D演出优化之前对话和演出各跑各的，现在终于同步了！战败后的H演出会随着对话进度切换不同的动画阶段，代入感up！&lt;/p&gt;
+&lt;p&gt;10.战败数值与多阶段演出现在莉薇娅如果败给哥布林王或母体史莱姆，会分别积累“兽化值”和“史莱姆化值”这些数值会影响下次战败触发的剧情！注：对应的UI还没来得及做，核心的“轮回”系统也还在设计中，所以目前演出到最后阶段会直接GameOver回到封面，请见谅！&lt;/p&gt;
+&lt;p&gt;11.废村剧情&amp;amp;邪教徒BOSS废村区域的剧情和BOSS战大概搭起来了在区域深处找到邪教徒后，除了常规死亡，还有因为“状态异常”导致的战败剧情（UI还在制作中，敬请期待）&lt;/p&gt;
+&lt;p&gt;12.打败母体史莱姆后下层洞窟的黏液会暴走并不断上涨，请务必操控莉薇娅拼命逃到上层去！&lt;/p&gt;
+&lt;p&gt;13.剧情文案大修感觉之前的剧情还是太粗糙了，所以我打算把所有文本都重写一遍后面可能还会有大幅调整，希望能给大家更好的故事体验。目前已经调整了已实装的BOSS剧情&lt;/p&gt;
+&lt;p&gt;14.存档界面升级档位增加到了12个，界面也翻新了，存取档的操作体验会更丝滑&lt;/p&gt;
+&lt;p&gt;下个月更新计划到下次更新的制作重心会放在这些地方：1.完善状态异常UI：包括莉薇娅在异常状态下的各种反应&lt;/p&gt;
+&lt;p&gt;2.废村，继续填充废村区域的细节3.秘密回忆系统，把各种H相关的数值关联做好4.支线任务，增加一部分支线内容5.兔女郎相关：L2D，以及与之配套的倒酒、拿酒像素动画6.修复CG画廊，顺便调整一下浏览方式，让大家看得更爽7.实装镇长家、咖啡厅、妮娜和伊莉莎的房间等等8.ESC菜单优化，现在第一个菜单界面还有点空，打算好好利用起来9.地图重置，希望能做一个更美观、更直观的地图界面&lt;/p&gt;
+&lt;p&gt;嗯……基本上就是这些&lt;/p&gt;</description></item><item><title>【SLG/生肉】東方の迷宮Tri -夢見る乙女と神秘の宝珠-【度盘/1.19G】</title><link>https://v2acg.github.io/posts/skgwsgkwc00kgko3/</link><pubDate>Tue, 03 Feb 2026 02:52:42 +0000</pubDate><guid>https://v2acg.github.io/posts/skgwsgkwc00kgko3/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/d173c76722c04030ab6fcfdb86d89387" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01252119】東方の迷宮Tri -夢見る乙女と神秘の宝珠-&lt;/p&gt;
+&lt;p&gt;入正链接:&lt;/p&gt;
+&lt;p&gt;作品信息:&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;偽英国紳士団&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月29日 0时&lt;/p&gt;
+&lt;p&gt;更新信息&lt;/p&gt;
+&lt;p&gt;2026年01月30日&lt;/p&gt;
+&lt;p&gt;更新信息&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;３ペソ&lt;/p&gt;
+&lt;p&gt;插画&lt;/p&gt;
+&lt;p&gt;会帆&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;全年龄&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;角色扮演有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;其他&lt;/p&gt;
+&lt;p&gt;部分使用AI&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语英语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;东方Project&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;777.74MB&lt;/p&gt;
+&lt;p&gt;游戏介绍：
+《以人数和等级压制击溃敌人！东方Project二次创作·BOSS战稍难DRPG！》&lt;/p&gt;
+&lt;p&gt;幻想乡的少女们编织的，预计游戏时间30~50小时的长篇地牢RPG。从40多名角色中组建由前卫4人+替补8人组成的12人队伍，攻略广阔的地牢吧！&lt;/p&gt;
+&lt;p&gt;DRPG的乐趣，刷刷刷与育成！&lt;/p&gt;
+&lt;p&gt;除了连胜会使经验值提升的系统外，还有经验值是普通敌人十倍以上的“稀有敌人”、战斗力数倍且经验值十余倍的“大型敌人”、具备各种特殊要素和特殊掉落的“特殊敌人”！运用各种手段增加或抑制各类敌人的出现率，或主动迎击或巧妙回避，在广阔的地牢中探索！用尽各种策略彻底解决强敌们，不断赚取资源变强吧！&lt;/p&gt;
+&lt;p&gt;攻略BOSS的诀窍在于构筑与对策！&lt;/p&gt;
+&lt;p&gt;“每〇回合固定此行动！”“HP低于〇%时必定使用此攻击！”“最后施展全体1000%伤害的超威力攻击！”“停止时间进行500%伤害的四连击！”“无上限的每回合能力提升！”阻挡去路的是棘手的BOSS们，但突破口必定存在！BOSS是否吃麻痹、沉默、即死？对哪种能力下降特别脆弱？哪个时机才能让我方攻击手安全发动大招？摸清BOSS的行动规律与弱点，用精心培养的队伍、千锤百炼的战术，击败众多强敌吧！&lt;/p&gt;
+&lt;p&gt;BOSS再战功能！连BOSS也能成为刷资源的对象！展开更激烈的战斗吧！&lt;/p&gt;
+&lt;p&gt;随着游戏推进，可以无限次与BOSS再战！将掉率和报酬丰厚的BOSS当作刷资源的目标也罢，遵循等级限制挑战BOSS以追求更高奖励也罢！只有击败附带限制条件的BOSS才能获得的特殊强力报酬也存在！附带限制的BOSS战难度堪称激战！务必严阵以待！&lt;/p&gt;
+&lt;p&gt;技能数量超过1000种，需根据协同效应在技能树中取舍选择！
+从前作大幅强化的、备受喜爱的技能树！为超过40名角色各自准备了专属的巨型技能树！&lt;/p&gt;
+&lt;p&gt;从众多伙伴中选择谁，让他们学习哪些技能，用怎样的组合与战术作战！组建属于你自己的独特阵容和战术吧！&lt;/p&gt;</description></item><item><title>【SLG/生肉】Four Nights at the Burger Shop ～ハンバーガー食べながら食べられるミニゲーム～（RJ01553775）</title><link>https://v2acg.github.io/posts/8088o8480c8c400w/</link><pubDate>Tue, 03 Feb 2026 02:49:16 +0000</pubDate><guid>https://v2acg.github.io/posts/8088o8480c8c400w/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/f81b7fbeeb2246e09cf28906ad10994e" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;幻夢劇場シャルロッテ&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年02月01日 0时&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;古狐川ルルック&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有动画&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;萝 制服 恐怖 男性受 乳头刺激 口交&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;86.45MB&lt;/p&gt;
+&lt;p&gt;简单解谜＋色情战斗的模拟游戏
+这是一款将 Live2D 动画与解谜要素相结合的模拟游戏。
+根据角色的动作会不断积累「快感伤害」，当计量槽蓄满时就会射精并受到伤害。&lt;/p&gt;
+&lt;p&gt;玩家的目标是在承受快感伤害的同时，迅速按照「菜单要求」组装并吃下汉堡来恢复状态，从而撑过对方的进攻。&lt;/p&gt;
+&lt;p&gt;只要存活到时钟指向 6 点即可通关，但随着时间推移，情况会愈发严峻。
+把握被进攻的时机，使用右键／空格键的「忍耐」操作在后期尤为重要。&lt;/p&gt;
+&lt;p&gt;更新记录
+・2026/02/01
+修复了通关关卡后时钟时间不会重置的 Bug。
+新增了 UI 图片。&lt;/p&gt;
+&lt;p&gt;按照店家给出的菜单制作汉堡吧&lt;/p&gt;
+&lt;p&gt;在限定时间内完成符合菜单的汉堡，即可获得体力恢复＆快感耐性提升的机会！
+在进攻愈发激烈的后半段，一次失误就可能致命。&lt;/p&gt;</description></item><item><title>【SLG/生肉】おしおき娘々R ver1.2【度盘/2.54G】</title><link>https://v2acg.github.io/posts/04k8ocw80wgg447s/</link><pubDate>Mon, 02 Feb 2026 03:07:59 +0000</pubDate><guid>https://v2acg.github.io/posts/04k8ocw80wgg447s/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/8ce38e5994bb49059cd94a1d122be3b6" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01543217】おしおき娘々R ver1.2&lt;/p&gt;
+&lt;p&gt;入正链接：&lt;/p&gt;
+&lt;p&gt;作品信息：&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;ぬるぬる坊主&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月08日&lt;/p&gt;
+&lt;p&gt;更新信息&lt;/p&gt;
+&lt;p&gt;2026年01月28日&lt;/p&gt;
+&lt;p&gt;更新信息&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;null&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;视频有配音有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;MP4&lt;/p&gt;
+&lt;p&gt;/ EXE&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;动画 东方Project 连续高潮 战斗H SM 拷打&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;2.06GB&lt;/p&gt;
+&lt;p&gt;ver1.2版本更新• 已追加主线剧情10个场景！• 已新增2条支线故事！
+游戏介绍：30帧动画呈现的滑溜情色视频合集（含移动端MP4格式）
+■更新信息※未来可能进行内容更新或问题修复，强烈建议您注册会员后再购买，以便重新下载。
+■内容本作为旧作《惩罚娘々（RJ313605）》的自我重制版。即使未接触过前作亦可畅享。
+正戏场景：7种 +对话部分视频文件数：100（含移动端MP4格式）&lt;/p&gt;
+&lt;p&gt;・手淫・口交（Lv.1）・双穴按压・口交（Lv.2）・肛门珠・反制调教・再逆转乱交&lt;/p&gt;
+&lt;p&gt;【基本操作流程】对话 → 待机 → 插入 → 轻柔 → 激烈 → 绝顶 → 停止 → 继续 → 绝顶 → 停止各场景可通过点击一键切换&lt;/p&gt;</description></item><item><title>【SLG/生肉】チアリーダーと、秘密のレッスン-顧問にだけ見せる淫らな姿-【度盘/312MB】</title><link>https://v2acg.github.io/posts/088kc8wkwcgg8gkn/</link><pubDate>Mon, 02 Feb 2026 03:05:59 +0000</pubDate><guid>https://v2acg.github.io/posts/088kc8wkwcgg8gkn/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/e6434d26ffd04092888fa456a2f59ff5" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01545714】チアリーダーと、秘密のレッスン-顧問にだけ見せる淫らな姿-&lt;/p&gt;
+&lt;p&gt;入正链接：&lt;/p&gt;
+&lt;p&gt;作品信息：&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;夢幻舞台&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月30日 0时&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;みっちゃむ&lt;/p&gt;
+&lt;p&gt;插画&lt;/p&gt;
+&lt;p&gt;夜比奈いくら&lt;/p&gt;
+&lt;p&gt;声优&lt;/p&gt;
+&lt;p&gt;早緒きむり&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有配音有动画&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;教师 学校/学园 女性主导 运动/体育 内射/中出 口交 褐皮/晒痕 巨乳/爆乳&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;112.86MB&lt;/p&gt;
+&lt;p&gt;游戏介绍：在阳葵太阳般笑容之下隐藏的……元气满满！笑容如太阳般灿烂的啦啦队部部长高三学生·阳葵。在大家面前是完美的领袖，唯独在老师面前，会变成爱撒娇、贪心的依赖鬼♡藏在明亮啦啦队服下的丰腴身体，只让老师看见……「好想被老师需要……受不了了♡」汗湿的肌肤、摇晃的马尾，以及这对……只想专为老师奉献的巨乳♡「没有老师的话，我……说不定会不行呢……」这样的阳葵，在仓库里悄悄抚慰老师，用Live2D动画让你尽情品味♪&lt;/p&gt;
+&lt;p&gt;高品质Live2D动画四连发！阳葵的撒娇不停绝顶课程♡元气满满啦啦队部长·阳葵，在体育仓库里只对老师展现的淫荡面容……以高品质Live2D真实再现♪口交（女方主动）抬眼凝视、黏腻地奉献♡「老师的疲劳，全部让我吸走……♡」骑乘位（女方主动）自己主动扭动腰肢！「老师，全部让我来让你舒服哦……♡」正常位（男方主动）被老师推倒、深入撞击……「被老师支配的感觉，最喜欢了……！」后背位（男方主动）四肢趴伏激烈后入！「从后面……再更激烈一点嘛……♡」汗水浸透的啦啦队服凌乱，马尾摇晃，甜腻喘息回响——&lt;/p&gt;
+&lt;p&gt;搭载自由模式！！自由模式下可自行调整本篇角色的速度等参数！在喜欢的时机与阳葵一同抵达绝顶吧&lt;/p&gt;</description></item><item><title>【ADV/生肉】ラブラブお痴験バイト性活 -怪しいクスリでフル勃〇！モテまくりヤリまくりで人生大逆転-【Mega/2.6G】</title><link>https://v2acg.github.io/posts/goss0cowko00ko4a/</link><pubDate>Mon, 02 Feb 2026 03:03:29 +0000</pubDate><guid>https://v2acg.github.io/posts/goss0cowko00ko4a/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/e3ec86246ba14b4c896a693fa95c203e" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;25/09/26&lt;/p&gt;
+&lt;p&gt;作品内容&lt;/p&gt;
+&lt;p&gt;Getchu界面：点击&lt;/p&gt;
+&lt;p&gt;游戏官网：点击&lt;/p&gt;
+&lt;p&gt;作品紹介&lt;/p&gt;
+&lt;p&gt;STORY&lt;/p&gt;
+&lt;p&gt;为下身短小而苦恼的我，服用试验药【O-1919】后竟成持久强者，逆袭人生！&lt;/p&gt;
+&lt;p&gt;“‘又短又小！？早泄。废柴。我们分手吧。’”&lt;/p&gt;
+&lt;p&gt;在东京读大学的落魄穷学生【影暗智雄】，因前女友这番话深受打击，陷入了勃起功能障碍的阴影。&lt;/p&gt;
+&lt;p&gt;正当智雄跌入绝望谷底时，某天偶然听到一则神秘的【药物试验兼职】传闻——据说需要住进深山的医院一个月，参与ED治疗药物的临床实验……&lt;/p&gt;
+&lt;p&gt;抱着抓住救命稻草的心态，智雄报名参加了实验。
+试验药【O-1919】竟让他获得了巨根与持久的精力，逐渐重拾男子气概与自信。&lt;/p&gt;
+&lt;p&gt;……然而，药效似乎有些过头了。
+再这样下去，下身恐怕会爆裂而亡！？&lt;/p&gt;
+&lt;p&gt;“想缓解勃起状态，只能通过性行为解决！”
+“什么——！？”&lt;/p&gt;
+&lt;p&gt;刚尝到男人滋味的温顺护士，【宇佐神透羽】
+把智雄当小白鼠般“疼爱”的主治医师，【宇佐神香织】
+偶然重逢的前女友，【丹叶比姬乃】
+热衷色色与角色扮演的兼职伙伴，【梅格】&lt;/p&gt;
+&lt;p&gt;他与这四位女性之间，火热又羞耻的药物试验兼职生活，就此拉开序幕……&lt;/p&gt;
+&lt;p&gt;STAFF&lt;/p&gt;
+&lt;p&gt;开发: ensemble SWEET
+剧本: 空下元
+企画: 空下元
+原画: izu藻、さくれいん、トコビ&lt;/p&gt;
+&lt;p&gt;CAST&lt;/p&gt;
+&lt;p&gt;丹葉比姫乃 (CV：水野七海)
+メグ (CV：みたかりん)
+宇佐神香織(CV：萌葱みどり)
+宇佐神透羽 (CV：小倉結衣)&lt;/p&gt;
+&lt;p&gt;CHARACTER&lt;/p&gt;
+&lt;p&gt;丹叶 比姬乃（Tanba Himeno）
+与智雄就读同一所大学的女生。
+是智雄的初次性经验对象。&lt;/p&gt;</description></item><item><title>【3D动画/生肉】GS_mel 2026.01作品【百度/719MB】</title><link>https://v2acg.github.io/posts/wc4sgo0k008os0kz/</link><pubDate>Mon, 02 Feb 2026 02:57:02 +0000</pubDate><guid>https://v2acg.github.io/posts/wc4sgo0k008os0kz/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/f1f7ac6358844f9b85f801373e2539a6" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;</description></item><item><title>【3D动画/生肉】HowlSFM 2026.01作品【百度/1.67GB】</title><link>https://v2acg.github.io/posts/oww88cogo8kkco6n/</link><pubDate>Mon, 02 Feb 2026 02:56:46 +0000</pubDate><guid>https://v2acg.github.io/posts/oww88cogo8kkco6n/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/d827bccf76924695ad6c2710c64410b1" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;</description></item><item><title>【SLG/生肉】なつのうしろで【度盘/4.22G】</title><link>https://v2acg.github.io/posts/woo0g448so4osg8h/</link><pubDate>Mon, 02 Feb 2026 02:38:49 +0000</pubDate><guid>https://v2acg.github.io/posts/woo0g448so4osg8h/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/4dadccdc0e1141ba8097434ce52ea381" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01544167】なつのうしろで&lt;/p&gt;
+&lt;p&gt;入正链接：&lt;/p&gt;
+&lt;p&gt;作品信息：&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;つきうさぎ&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月31日 0时&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;つきうさぎ&lt;/p&gt;
+&lt;p&gt;声优&lt;/p&gt;
+&lt;p&gt;早緒きむり / 遠野あお / 水戸ありす / コトザ&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;冒险&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;3D作品 触摸/抚摸 男主人公 玩具 姐姐×正太 野外/野战 自慰 内射/中出&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;3.73GB&lt;/p&gt;
+&lt;p&gt;游戏介绍：&lt;/p&gt;
+&lt;p&gt;操作与视角改变“快感”——搭载第一人称自由视角×触摸H系统的ADV夏日的背后 [月兔]◆◇◆采用第一人称自由视角的沉浸式H场景◆◇◆这是一款通过操作与视角直接改变与角色距离的ADV。&lt;/p&gt;
+&lt;p&gt;拉近视角、变换角度、选择触碰的部位——每一个操作都将直接关联角色的反应与身体感受。
+H场景并非仅供“观赏”，而是设计为玩家可亲自介入、亲身体验的系统。&lt;/p&gt;
+&lt;p&gt;◆◇◆触摸操作 × 自由视角 × 第一人称视点◆◇◆距离与视角的变化将影响沉浸感，而触碰的部位也会改变角色的反应。&lt;/p&gt;</description></item><item><title>【生肉/ACT】sisTer TesTamenT【磁力/1.3G】</title><link>https://v2acg.github.io/posts/woocww8w4wwokko3/</link><pubDate>Mon, 02 Feb 2026 02:37:55 +0000</pubDate><guid>https://v2acg.github.io/posts/woocww8w4wwokko3/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/c718938baef044a9a8dce2adb89d125c" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;入正页面：点击跳转社团名/商标名：当方丸宝堂支持的语言：日语分类：女主人公 燃 修女 颓废/背德
+异种奸 怀孕 强奸 西瓜肚/孕妇&lt;/p&gt;
+&lt;p&gt;注意!&lt;/p&gt;
+&lt;p&gt;※※※本作品は『アクションゲームツクールMV』にて制作しています※※※ページ下部の『ゲームが起動しない場合/プレイ上の注意』を必ずご覧ください。&lt;/p&gt;
+&lt;p&gt;※体験版を製品版準拠のものに差し替えております。　予告時よりパフォーマンスの向上を図っていますのでご確認をお願いします。&lt;/p&gt;
+&lt;p&gt;ここは、地獄。
+本ゲームはメトロイドライクを目指した異種姦探索ACTです。&lt;/p&gt;
+&lt;p&gt;プレイヤーは悪魔を打ち祓う『シスター・テスタメント』最後の生き残りエウフェミアとなって自ら地獄に降り立ち、囚われた魂の解放を目指します。&lt;/p&gt;
+&lt;p&gt;シスターの奮う力は四つ。遠距離から釘を打ち、相手の動きを止める　ホーリー・ネイルガン。強力な聖気で悪魔を滅ぼす　ホーリー・トンファブレード。様々な能力を持ったサブウェポン　ホーリー・スリング。そして――悪魔の攻撃を跳ね返す　ソール・カウンター！&lt;/p&gt;
+&lt;p&gt;敵の攻撃にあわせてカウンターし、強力な一撃を放て！
+キャラクター紹介&lt;/p&gt;
+&lt;p&gt;主人公は悪魔を滅ぼすために作られた『教会』、そこに所属する『シスター・テスタメント』最後の生き残り。&lt;/p&gt;
+&lt;p&gt;彼女が地獄に降りたち、最初に出会った悪魔は自らを『地獄の配達人』と名乗った……
+エウフェミア、そしてD3。二つの魂が絡みあう物語の果てとは――
+ゲームが起動しない場合/プレイ上の注意&lt;/p&gt;
+&lt;p&gt;■本ゲームが起動しない場合下記の方法をお試しください。&lt;/p&gt;
+&lt;p&gt;また、アクションゲームツクールMVの体験版をインストールすることで　起動できる場合があります。&lt;/p&gt;
+&lt;p&gt;■プレイ上の注意　本作品はアクションゲームツクールにより制作されており、　プレイ中予期せぬ終了などが発生するおそれがあります。　こまめなセーブとソフトの再起動をお願いします。&lt;/p&gt;
+&lt;p&gt;更新履歴
+2026/01/20製品版を申請体験版を製品版準拠の物に再更新
+2026/01/18体験版を製品版準拠の物に更新&lt;/p&gt;
+&lt;p&gt;2025/12ゲーム内に以下のメッセージを追加・シーケンス(蜘蛛型ボス)部屋の前に注意文・体験版範囲終了のメッセージ&lt;/p&gt;
+&lt;p&gt;请使用qBittorrent Enhanced进行下载，不要使用迅雷，比特彗星本人不给保底速度。所以全部用qBittorrent
+Enhanced就行了。请勿在此贴下面跳脸迅雷下不动，为什么不让用迅雷，反馈链接违规，资源违规，和谐等字眼跳脸，部分移动用户可能无法访问种子链接请使用代理&lt;/p&gt;</description></item><item><title>【自购】【同人音声/生肉】【RJ01496665】とろとろになって寝ながらイケる2…舌の長い幼なじみサキュバスとあまいちゃ同棲生活〜幸せイキしちゃう淫語責め純愛オナサポ〜【度盘/1.8G】</title><link>https://v2acg.github.io/posts/404sggg4cog44kks/</link><pubDate>Thu, 29 Jan 2026 03:18:26 +0000</pubDate><guid>https://v2acg.github.io/posts/404sggg4cog44kks/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/33d3d9e34924470fb282b6b6c8fabd69" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;★ストーリー★&lt;/p&gt;
+&lt;p&gt;幼なじみのリノと一緒に住み始め、毎日のようにあまいちゃ生活を過ごす日々。
+今日も会社で嫌なことがあったが、リノは優しく声をかけてくれいっぱい甘えさせてくれました。&lt;/p&gt;
+&lt;p&gt;あなたのフェロモンに刺激され、リノはサキュバスの姿になると、今日もぐっぽり耳舐めをしてくれます。
+耳の奥から頭の中に舌を絡ませると、ぐっぽり頭の中までかき乱され嫌なことを全て忘れさせてくれました。&lt;/p&gt;
+&lt;p&gt;快楽に全身が包まれると、当然チンポもビンビンに。
+手コキで射精してからの生ハメえっちをすると、幸せに包まれながら寝堕ちしてしまいます。&lt;/p&gt;
+&lt;p&gt;後日、仕事が休みでぐっすり寝ようと思っていると、目が覚めるとすでにチンポを咥えているリノ。
+リノはあなたの休みに合わせて有休を取得しており、今日は一日いちゃらぶえっち。&lt;/p&gt;
+&lt;p&gt;いちゃらぶえっちが終わると、あなたはある決意を固めるのだった。
+★作品内容★&lt;/p&gt;
+&lt;p&gt;【トラック1】～長舌幼なじみサキュバスとあまいちゃすぎる同棲生活～(6:57)
+幼なじみのリノと一緒に住み始め、毎日のようにあまいちゃ生活を過ごす日々。
+今日も会社で嫌なことがあったが、リノは優しく声をかけてくれいっぱい甘えさせてくれました。&lt;/p&gt;
+&lt;p&gt;●プレイ内容
+オープニング&lt;/p&gt;
+&lt;p&gt;【トラック2】～仕事終わりのトロトロ寝かしつけぐっぽり耳舐め脳フェラ～(10:54)
+あなたのフェロモンに刺激され、リノはサキュバスの姿になると、今日もぐっぽり耳舐めをしてくれます。
+耳の奥から頭の中に舌を絡ませると、ぐっぽり頭の中までかき乱され嫌なことを全て忘れさせてくれました。&lt;/p&gt;
+&lt;p&gt;●プレイ内容
+耳舐め
+脳フェラ&lt;/p&gt;
+&lt;p&gt;【トラック3】～頭の中がとろける…しこしこチクニ―オナサポでお射精幸せイキ～(11:31)
+頭の中がとろっとろになると、チンポも自然とギンギンになっています。
+リノは嬉しそうにチンポをしごいてくれると、たくさんびゅるびゅる射精してしまいました。&lt;/p&gt;
+&lt;p&gt;●プレイ内容
+耳舐め
+手コキ&lt;/p&gt;
+&lt;p&gt;【トラック4】～おまんこの中でおやすみ。密着あまあま寝落ち中出しエッチ～(13:13)
+射精チンポを綺麗にリノは舐めてくれるも、まだまだチンポはビンビン。
+今度は密着あまあまえっちが始まると、中出し射精したまま寝落ちしてしまうのだった。&lt;/p&gt;
+&lt;p&gt;●プレイ内容
+フェラチオ
+生ハメえっち
+中出し&lt;/p&gt;
+&lt;p&gt;【トラック5】～今日は一日エッチする日！乳首責め&amp;amp;淫語&amp;amp;深耳舐めで脳イキ誘惑～(12:53)
+今日は仕事も休みなのでぐっすり寝るぞ！と思いきや、目が覚めるとリノはチンポを咥えていました。
+あなたに休みに合わせてリノも有休を取っており、今日は一日あまいちゃえっちが始まるのだった。&lt;/p&gt;
+&lt;p&gt;●プレイ内容
+耳舐め
+脳フェラ
+乳首責め&lt;/p&gt;
+&lt;p&gt;【トラック6】～君のこと頭の中まで全部ほしい…相思相愛脳舐め子作り孕ませっくす～(11:22)
+あなたのことが好きすぎて、最近おマンコのキュンキュンが止まらなくなってしまったリノ。
+たくさんあまいちゃえっちをしたあと、あなたはある決意を固めるのだった。&lt;/p&gt;</description></item><item><title>【自购】【同人音声/生肉】【RJ01349374】【日文版】使用敬语眼神轻蔑的萝○勇者与异世界转生谭〜与飞机场傲娇转生勇者共度甜蜜哦吼同居色色性活培育爱情的故事〜【度盘/1.9G】</title><link>https://v2acg.github.io/posts/gsc4wwks40sog88y/</link><pubDate>Thu, 29 Jan 2026 03:18:19 +0000</pubDate><guid>https://v2acg.github.io/posts/gsc4wwks40sog88y/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/ae4973a7d5154317955f550cdc0b0a48" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;敬語でジト目なロリ勇者と異世界転生譚
+〜つるぺたツンデレ転生勇者と、甘オホ同棲えっち性活で愛を育んだ話〜&lt;/p&gt;
+&lt;h1 id="ろりぽっぷらんど"&gt;ⓒろりぽっぷらんど&lt;/h1&gt;
+&lt;p&gt;□ご挨拶&lt;/p&gt;
+&lt;p&gt;この度は「敬語でジト目なロリ勇者と異世界転生譚〜つるぺたツンデレ転生勇者と、甘オホ同棲えっち性活で愛を育んだ話〜」
+をお買い上げ頂きありがとうございます。
+本作品は全編バイノーラル形式での録音となっておりますので、
+イヤホンもしくはヘッドホンでのご聴取を推奨しております。&lt;/p&gt;
+&lt;p&gt;公式ツイッター/Ci-enでも情報を発信しております。&lt;/p&gt;
+&lt;p&gt;【公式ツイッター】@_LollipopLand_2
+【Ci-en】&lt;/p&gt;
+&lt;p&gt;フォロー＆ご支援、よろしくお願いいたします。
+———————————————————————————————-
+□ヒロイン紹介
+ミラ・レルソート=デロシュッツ　(CV.雲八はち)&lt;/p&gt;
+&lt;p&gt;敬語でジト目な勇者の少女。
+由緒正しい勇者の血を引き、邪悪な魔王の討伐を世界中から期待されている。
+しかし当の本人は、冒険の旅に出る気はまるでない様子。
+友達に誘われても外に出ることはほとんどなく、ツンツン強気にベッドに引きこもり続けている。
+趣味は読書。&lt;/p&gt;
+&lt;p&gt;———————————————————————————————-
+□あらすじ&lt;/p&gt;
+&lt;p&gt;引きこもりニートなあなたの目の前に、不思議な光と共に突如として現れた少女、ミラ。
+ミラは言います。&lt;/p&gt;
+&lt;p&gt;「別の世界から、転生してきたんです」
+「——勇者、と……そう呼ばれていました」&lt;/p&gt;
+&lt;p&gt;身寄りのないミラは、あなたの部屋で暮らすことになりました。&lt;/p&gt;
+&lt;p&gt;ゲームで無双されたり、かくれんぼをしたり。
+時には、おぱんつを嗅いだり、耳舐め手コキをしてもらったり、露出プレイをしたり、生ハメ交尾でたっぷり中出ししたり……&lt;/p&gt;
+&lt;p&gt;「……ほ、ほら、早く、おちんぽみるく、出してください」
+「新品ピカピカの、きつきつロリまんこ穴——」
+「——もっと、気持ちよくしてくだs——ンォッ……♪」
+「ォッ、んっぉっ、ォォッ、んッ……♪」&lt;/p&gt;
+&lt;p&gt;さあ、敬語でジト目で、優しくてえっちで、引きこもりで勇敢な少女との生活が始まります。
+———————————————————————————————-
+□トラックリスト&lt;/p&gt;
+&lt;p&gt;■トラック1. プロローグ:救いたかった世界の話 (08:53)
+■トラック2. 転生と、変態と (14:10)
+■トラック3. 手コキと、告白と (32:13)
+■トラック4. こっちと、あっちと (14:40)
+■トラック5. 露出と、告白と (22:29)
+■トラック6. セックスと、 (23:55)
+■トラック7. エピローグ:何もなかった世界の話 (05:26)&lt;/p&gt;</description></item><item><title>【自购】【同人音声/生肉】【RJ298978】文化祭限定辣妹性交风俗店【度盘/3.5G】</title><link>https://v2acg.github.io/posts/8gg0g8ok4sw800ww/</link><pubDate>Thu, 29 Jan 2026 03:18:13 +0000</pubDate><guid>https://v2acg.github.io/posts/8gg0g8ok4sw800ww/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/ef9fd6515fa949d394c1604e1ca1bf09" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;文化祭限定辣妹性交风俗店 本作品为日语作品
+首先还请感受下体验版！&lt;/p&gt;
+&lt;p&gt;文化祭限定辣妹性交风俗店限定折扣活动
+期间限定！！30%折扣活动
+期间限定！！9月12日到10月9日为止，基本价格2000减价至☞1400日元！的购买活动
+再加上！50%折扣优惠卷发送中！&lt;/p&gt;
+&lt;p&gt;9月25日位置在【优惠卷获得页面】中可获得用于本作品的50%减价折扣卷。
+含税2200的作品，现在可以用770和1430日元的价格购买的仅限现在的活动！
+为了推广声音作品的限定特别价格，以此为机会还务必尝试一下踏入声音作品的世界！&lt;/p&gt;
+&lt;p&gt;优惠卷获得页面为以下????&lt;/p&gt;
+&lt;p&gt;文化祭限定辣妹性交风俗店的收听要点!
+故事
+文化祭的秘密店铺.JK风俗！
+和要好的朋友一起进入了店铺的你。&lt;/p&gt;
+&lt;p&gt;由色色的同级生们带来的，王道性交套餐和手淫口交再加上，
+如梦一般的后宫Play侍奉！&lt;/p&gt;
+&lt;p&gt;女孩们的不断进攻！
+要点&lt;/p&gt;
+&lt;p&gt;【打破声音作品常识的由两个立场同时体验的，梦幻加点paly】
+能和要好的朋友一起体验的套餐。
+为了实现这个“一起同时”的效果
+从收录到编辑，我们尽了界限突破的努力。&lt;/p&gt;
+&lt;p&gt;提高了别的作品体验不到的，另一个人存在一般的临场感。
+然后，除你以外的另一个人，也是“你”！！
+可以站在各自的立场上接受侍奉的超充实内容。&lt;/p&gt;
+&lt;p&gt;时间表
+总时间5小时20分
+#1.欢迎来到JK风俗 A[2分31秒] B[2分31秒]
+#2.30分钟的口交套餐，射出来了就可以交换。A[30分44秒] B[30分44秒]
+#3.40分钟性交套餐，射出来了就可以交换。A[40分57秒] B[40分57秒]
+#4.3P后宫H，A[35分55秒] B[35分55秒]
+#5.年级主任老师的无限制双口交&amp;amp;向两人中出[31分00秒]
+#6.JK两人的陪睡服务 [10分20秒]
+#7.和低年级处男君H.A[17分35秒] B[17分35秒]
+#8.同时进攻一个人的同年3人辣妹连续无套H.A[23分49秒]&lt;/p&gt;
+&lt;p&gt;※AB各内容由各KU100同时收录
+注重要点&lt;/p&gt;</description></item><item><title>【SLG/生肉】最強の女戦士を寝取る計画（RJ01413544）</title><link>https://v2acg.github.io/posts/g0kgkgg00cok827l/</link><pubDate>Thu, 29 Jan 2026 03:16:44 +0000</pubDate><guid>https://v2acg.github.io/posts/g0kgkgg00cok827l/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/ce23b83b429a42d39eab355f4dd294e1" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;kiki&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月26日 0时&lt;/p&gt;
+&lt;p&gt;声优&lt;/p&gt;
+&lt;p&gt;佐京柚音&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有配音有音乐有动画&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;其他&lt;/p&gt;
+&lt;p&gt;部分使用AI&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;断面图 沉迷快乐/快乐堕落 被NTR(苦主视角) NTR(黄毛视角) 奇幻 内射/中出 怀孕 巨乳/爆乳&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;212.68MB&lt;/p&gt;
+&lt;p&gt;故事&lt;/p&gt;
+&lt;p&gt;过着魔法学校生活的主人公，试图攻略已有男友、被称为学校最强的女主角；故事走向要么是她被主人公寝取，要么被教头寝取。&lt;/p&gt;
+&lt;p&gt;在战斗中，对性格强势又清纯的女主角迪亚使用「色情技能」取得胜利后，可以与她发生关系，或者让她穿上女仆装等服装。&lt;/p&gt;
+&lt;p&gt;■ 特点
+・H 场景（动画）数量：34
+・含色情属性系统
+・受精时有插入演出动画
+・多结局（3 种）&lt;/p&gt;
+&lt;p&gt;游戏流程 1&lt;/p&gt;
+&lt;p&gt;使用拥有最快行动顺序的「色情技能」，让对方丧失战意吧。&lt;/p&gt;
+&lt;p&gt;在序盘，毫无经验的迪亚会被一击击败。
+不过，一旦她体验过色情技能，就会产生耐性，不再会被一击打败。&lt;/p&gt;
+&lt;p&gt;游戏流程 2&lt;/p&gt;</description></item><item><title>【RPG/生肉】ユニゾンコード（RJ01407417）</title><link>https://v2acg.github.io/posts/ckow0kss040kc8o2/</link><pubDate>Wed, 28 Jan 2026 03:05:56 +0000</pubDate><guid>https://v2acg.github.io/posts/ckow0kss040kc8o2/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/rpg-sheng-rou-yunizonkoodo-rj01407417-puzO" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;出血観察日記&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月28日 0时&lt;/p&gt;
+&lt;p&gt;剧情&lt;/p&gt;
+&lt;p&gt;柿乃種&lt;/p&gt;
+&lt;p&gt;插画&lt;/p&gt;
+&lt;p&gt;へもぐろびんA1C&lt;/p&gt;
+&lt;p&gt;声优&lt;/p&gt;
+&lt;p&gt;御子柴泉 / 星野天 / 篠守ゆきこ / 彩夢ひな / 藤村莉央 / 砂糖しお / 成町茎 / 道楽みぃ / まあ油るる / 竹早芽衣 / 暁鞠子 / 眠音りま / 夢月やみ / 神代そら / かの仔 / 雲雀ゆい / 星月るな / ゆきかすみ / 碧葉ルナ / 佐京柚音&lt;/p&gt;</description></item><item><title>【SLG/生肉】異世界勇者と女僧侶のパラレルライフ（RJ01550002）</title><link>https://v2acg.github.io/posts/8ww880swws080skr/</link><pubDate>Tue, 27 Jan 2026 03:21:47 +0000</pubDate><guid>https://v2acg.github.io/posts/8ww880swws080skr/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-yi-shi-jie-yong-zhe-to-nv-seng-lv-noparareruraifu-rj01550002-bOUh" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;ピンクサブマリン&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月26日 0时&lt;/p&gt;
+&lt;p&gt;系列名&lt;/p&gt;
+&lt;p&gt;異世界勇者&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;えいりあん&lt;/p&gt;
+&lt;p&gt;声优&lt;/p&gt;
+&lt;p&gt;砂糖しお&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有配音有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;/ Meta Quest用APKファイル&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;3D作品 男主人公 异世界转生 奇幻&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;1.32GB&lt;/p&gt;
+&lt;p&gt;当逐渐适应了异世界的生活后，勇者前往拯救被兽人（奥克）抓走的女僧侣，然而……
+这是平行人生（Parallel Life）系列的第二弹。&lt;/p&gt;
+&lt;p&gt;在异世界中获得了强大力量的勇者，踏上了营救被野蛮的奥克俘虏的女僧侣之旅……
+谁也不知道她会遭遇什么样的对待……
+怀着对她安危的祈祷，勇者匆忙与女战士道别，离开了城镇。&lt;/p&gt;
+&lt;p&gt;本游戏由奥克篇与勇者篇两部分构成。
+通过编辑功能和追加道具等内容，可以体验多种不同的游玩方式。&lt;/p&gt;
+&lt;p&gt;本内容是为 Meta Quest 2 / 3 开发的，但即使没有 VR
+设备，也附带了 PC 版，同样可以游玩。
+在 VR 版中，可使用 Quest 3 的
+MR（混合现实）功能去除背景，在自己的房间中进行体验。&lt;/p&gt;</description></item><item><title>【SLG/生肉】隠居魔女との30日間【度盘/256MB】</title><link>https://v2acg.github.io/posts/4skk0w088oockosw/</link><pubDate>Sun, 25 Jan 2026 13:24:44 +0000</pubDate><guid>https://v2acg.github.io/posts/4skk0w088oockosw/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-yin-ju-mo-nv-tono30-ri-jian-du-pan-256mb-0P1x" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01527035】隠居魔女との30日間&lt;/p&gt;
+&lt;p&gt;入正链接：&lt;/p&gt;
+&lt;p&gt;作品信息:&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;エロフラ部&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月24日 16时&lt;/p&gt;
+&lt;p&gt;系列名&lt;/p&gt;
+&lt;p&gt;日数経過型シミュレーション&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;触摸/抚摸 同居 日常/生活 魔法 睡奸/迷奸 乳头刺激 怀孕&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;53.21MB&lt;/p&gt;
+&lt;p&gt;概述这部作品的概念是“魔法触感模拟”。你可以随意摆弄那些毫无防备、沉睡中的主人的身体。&lt;/p&gt;
+&lt;p&gt;除了他们睡觉的时候，其他时候都没什么不雅的。这是一部以情色性爱为主题的作品。
+预计游戏时长为1-2小时。
+你可以征服的女主角是隐居在森林深处的三个女巫姐妹。
+学习魔法后，你可以在夜间摸索时做很多不同的事情。
+它还可以在白天使衣服透明并显示状态。
+你可以通过施展唤情魔法、用愉悦魔法强行提高敏感度或操纵自己的复制体来有效地增强主人的身体。&lt;/p&gt;</description></item><item><title>【SLG/生肉】電ちか【度盘/321MB】</title><link>https://v2acg.github.io/posts/80so4gksk80w8o8p/</link><pubDate>Sun, 25 Jan 2026 13:22:56 +0000</pubDate><guid>https://v2acg.github.io/posts/80so4gksk80w8o8p/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-dian-chika-du-pan-321mb-FbxP" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01506651】電ちか&lt;/p&gt;
+&lt;p&gt;入正链接:&lt;/p&gt;
+&lt;p&gt;作品信息:&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;さぼちん亭&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月24日 0时&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;さぼちん亭&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有配音&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;触摸/抚摸 制服 电车 深喉口交(男主导) 口内射精/口爆 内射/中出 怀孕 西瓜肚/孕妇&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;192.14MB&lt;/p&gt;
+&lt;p&gt;游戏介绍：电车触摸游戏这是一款鼠标操作型触摸游戏。&lt;/p&gt;
+&lt;p&gt;清纯氛围的女学生「白石菫」与您乘坐同一班电车周围空无一人，也许对这个孩子进行触摸也没关系…&lt;/p&gt;
+&lt;p&gt;若能巧妙触摸并让她产生情欲，便可将她带至车站洗手间为所欲为。
+学生证姓名：白石菫年级：二年级兴趣：读书&lt;/p&gt;
+&lt;p&gt;黑发清纯且认真的二年级学生学业中上，运动尚可但不擅长性格内向是她的弱点，即便被触摸也只会轻微抵抗而无法逃离&lt;/p&gt;
+&lt;p&gt;游戏画面・起始画面与先前锁定的「菫酱」一同搭乘电车吧。&lt;/p&gt;
+&lt;p&gt;电车内（触摸）揉捏菫酱的臀部或进行指交，让菫酱达到高潮。兴奋度将影响表情与内裤的变化。&lt;/p&gt;
+&lt;p&gt;*体验版可游玩至此为止。&lt;/p&gt;
+&lt;p&gt;车站洗手间（深喉口交）一同下车进入车站洗手间。让菫酱为您进行亲密侍奉。请在她的脸上与口中尽情释放。&lt;/p&gt;
+&lt;p&gt;车站洗手间（性交）掀起裙子并褪下内裤后即准备完成。多次内射让菫酱受孕吧。&lt;/p&gt;</description></item><item><title>【SLG/生肉】ヤレたかもーめんと（RJ01548265）</title><link>https://v2acg.github.io/posts/4s808o8cs04w44gq/</link><pubDate>Sun, 25 Jan 2026 13:22:19 +0000</pubDate><guid>https://v2acg.github.io/posts/4s808o8cs04w44gq/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-yaretakamo-mento-rj01548265-CLPw" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;PaperCardStory&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月24日 0时&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;冒险有音乐有动画&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;动画 学生 辣妹 喜剧 日常/生活 风俗/泡泡浴 反向奸 内射/中出&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;680.54MB&lt;/p&gt;
+&lt;p&gt;概念
+主人公是一名不起眼的大学生。
+在与各种女孩子相遇的过程中，会遭遇到一些“说不定能来一发”的情境。
+在与女孩子的对话中，做出恰当的回应，把聊天气氛炒热吧！
+如果聊得无聊，女孩子很快就会冷淡下来；
+但如果能巧妙地展开对话，说不定就能获得一次“机会”？？
+发挥你的聊天能力，打开女孩子的心扉，最终让她答应和你发生关系吧！&lt;/p&gt;
+&lt;p&gt;系统
+在对话中选择正确的选项，提高女孩子的好感度。
+如果好感度保持在较高状态，最终就会发展成H向展开。
+但如果连续做出错误选择、好感度过低，女孩子就会失去耐心直接离开。&lt;/p&gt;
+&lt;p&gt;情境
+・在新生欢迎会的二次聚会上，和学妹一起……
+・在打工的地方，和一直很认真的前辈一起……
+・人生第一次去陪酒场，被两个女孩子夹在中间……&lt;/p&gt;
+&lt;p&gt;※需要配备拥有 4GB 以上显存 的显卡。
+为了确认是否能够流畅游玩，请事先通过体验版进行运行测试。&lt;/p&gt;</description></item><item><title>【ACT/生肉】 電脳追撃者 ミサト（RJ01518948）</title><link>https://v2acg.github.io/posts/gs44kk8oog8owo22/</link><pubDate>Sun, 25 Jan 2026 13:21:52 +0000</pubDate><guid>https://v2acg.github.io/posts/gs44kk8oog8owo22/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/act-sheng-rou-dian-nao-zhui-ji-zhe-misato-rj01518948-jk3x" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;ロケット☆ペンギン&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年01月25日 0时&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;鈴木孝太郎 / unitsee&lt;/p&gt;
+&lt;p&gt;剧情&lt;/p&gt;
+&lt;p&gt;鈴木孝太郎 / 真条明&lt;/p&gt;
+&lt;p&gt;插画&lt;/p&gt;
+&lt;p&gt;TOMA&lt;/p&gt;
+&lt;p&gt;声优&lt;/p&gt;
+&lt;p&gt;殊座ことざ / 水谷六花&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;动作有配音有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;女主人公 像素 科幻 沉迷快乐/快乐堕落 淫乱 机械X 精神支配 羞辱&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;109.53MB&lt;/p&gt;
+&lt;p&gt;【概要】
+以近未来的日本为舞台的赛博朋克动作游戏！
+使用话题性的动作游戏制作工具
+「ACTION GAME MAKER（AGMaker）」 制作！&lt;/p&gt;</description></item><item><title>【SLG/PC/安卓/生肉】キヴォトスふたなり大騒ぎVol.2【度盘/2.58G】</title><link>https://v2acg.github.io/posts/o8wk4co8owo8s88y/</link><pubDate>Fri, 23 Jan 2026 02:59:40 +0000</pubDate><guid>https://v2acg.github.io/posts/o8wk4co8owo8s88y/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-pc-an-zhuo-sheng-rou-kivuotosufutanari-da-sao-givol-2-du-pan-2-58g-Hsyy" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01315413】キヴォトスふたなり大騒ぎVol.2&lt;/p&gt;
+&lt;p&gt;入正链接：&lt;/p&gt;
+&lt;p&gt;作品信息：&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;エロマゼ&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2025年01月28日&lt;/p&gt;
+&lt;p&gt;系列名&lt;/p&gt;
+&lt;p&gt;セックスアーカイブ&lt;/p&gt;
+&lt;p&gt;作者&lt;/p&gt;
+&lt;p&gt;loretenele / WD&lt;/p&gt;
+&lt;p&gt;插画&lt;/p&gt;
+&lt;p&gt;Maze&lt;/p&gt;
+&lt;p&gt;声优&lt;/p&gt;
+&lt;p&gt;橘一葉 / 道楽みぃ / 白樺玲奈&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;视频有配音&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;韩语日语英语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;动画 内射/中出 乳交 口交 多P/乱交 蕾丝/女同 巨乳/爆乳 扶她&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;6.98GB&lt;/p&gt;
+&lt;p&gt;游戏介绍：（附带全语音&amp;amp;效果音！）（丝滑流畅的LIVE2D动画！）（曾于黑市流行、在学生间备受热议的神秘药物……）（其名为——“能变成扶她的药”。）（本故事即围绕这种药物与碧蓝档案的少女们所展开。）&lt;/p&gt;
+&lt;p&gt;故事介绍某日，从黑市流入一种在学生间悄然流行的可疑药物……其名为「能成为双性的药」本故事描绘了这种药物在基沃托斯的女孩子们之间引发的种种风波。&lt;/p&gt;</description></item><item><title>【ACT/生肉】【黒い染み】死者医院 ホスピタルオブザデッド【RJ185016】【500M/度盘】</title><link>https://v2acg.github.io/posts/8s84owwogwsgsonp/</link><pubDate>Fri, 23 Jan 2026 02:55:47 +0000</pubDate><guid>https://v2acg.github.io/posts/8s84owwogwsgsonp/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/act-sheng-rou-hei-i-ran-mi-si-zhe-yi-yuan-hosupitaruobuzadeddo-rj185016-500m-du-qhJ5" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;作品简介&lt;/p&gt;
+&lt;p&gt;社团名&lt;/p&gt;
+&lt;p&gt;黒い染み&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2016年09月26日&lt;/p&gt;
+&lt;p&gt;更新信息&lt;/p&gt;
+&lt;p&gt;2016年09月28日&lt;/p&gt;
+&lt;p&gt;更新信息&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;动作有配音有音乐有动画&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;僵尸/丧尸 恐怖 内射/中出 乳交 疯狂 血液/流血&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;530.61MB&lt;/p&gt;
+&lt;p&gt;作品内容&lt;/p&gt;
+&lt;p&gt;用手术刀和球棒攻击来击败僵尸，探索医院并尝试逃脱。一款以探索为主题的 2D 动作游戏。&lt;/p&gt;
+&lt;p&gt;使用键盘上的←→键移动，↑键跳跃，↓键下蹲，Z 键攻击。按 X 键用球棒攻击，按 S 键恢复，按空格键进入菜单界面，用血液购买各种技能。&lt;/p&gt;
+&lt;p&gt;当你的体力耗尽时，如果碰到敌人，就会触发 H 场景。&lt;/p&gt;
+&lt;p&gt;每段情色场景都可以在大屏幕上观看，作为额外福利。&lt;/p&gt;
+&lt;p&gt;【故事】一种神秘的传染病蔓延开来，主人公葵醒来时发现自己身处一家变成了人间炼狱的医院，到处都是丧尸……她孤身一人……抓起地上找到的手术刀，试图逃离这座人间炼狱般的医院。&lt;/p&gt;
+&lt;p&gt;■2016/09/28更新修复了附加内容中切换视频速度的问题。&lt;/p&gt;
+&lt;p&gt;游戏预览&lt;/p&gt;
+&lt;p&gt;手中的球棒开始取消&lt;/p&gt;
+&lt;p&gt;入正页面&lt;/p&gt;
+&lt;p&gt;【50%OFF】ホスピタル・オブ・ザ・デッド [黒い染み] | DLsite 同人 – R18&lt;/p&gt;</description></item><item><title>【SLG/生肉】Femdom university life【度盘/1.25G】</title><link>https://v2acg.github.io/posts/wo40s8cwgkwgs886/</link><pubDate>Fri, 16 Jan 2026 03:01:40 +0000</pubDate><guid>https://v2acg.github.io/posts/wo40s8cwgkwgs886/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-femdom-university-life-du-pan-1-25g-e7Jk" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;Femdom university life&lt;/p&gt;
+&lt;p&gt;入正链接：&lt;/p&gt;
+&lt;p&gt;作品信息：&lt;/p&gt;
+&lt;p&gt;社团名
+Mongori&lt;/p&gt;
+&lt;p&gt;发售日&lt;/p&gt;
+&lt;p&gt;2026年1月14日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;175.53MB&lt;/p&gt;
+&lt;p&gt;游戏介绍：你是欺凌型女子大学里唯一的男生。你将在这里的教室、体育馆、泳池、保健室、洗手间以及宿舍中遭受欺凌！整座校园随时都在发生各种羞耻事件！它们会随时间随机变化。部分事件以迷你游戏形式出现，一旦失败就可能招致严厉的惩罚…！你还可以在走廊、体育馆和泳池边对路过的女生“发射”！向你喜欢的女生尽情发射吧，地点任选！你甚至可以为她奉上金钱！游戏中会出现精神不稳定的女生，她将对你展开不死不休的追逐！一旦被抓住，她就会反复不断地亲吻你！&lt;/p&gt;</description></item><item><title>【SLG/生肉】【HUuuUGe】Project Dungeon （25年12月支援体验版）【度盘/867M】</title><link>https://v2acg.github.io/posts/g4wgkso0g4o0okg9/</link><pubDate>Mon, 05 Jan 2026 03:15:28 +0000</pubDate><guid>https://v2acg.github.io/posts/g4wgkso0g4o0okg9/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-huuuuge-project-dungeon-25-nian-12-yue-zhi-yuan-ti-yan-ban-du-pan-Ds4M" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;作者的cien链接：&lt;/p&gt;
+&lt;p&gt;2025年12月定期作業報告とビルド公開&lt;/p&gt;
+&lt;p&gt;こんにちは、HUuuUGeです。12月の開発報告をお届けいたします。&lt;/p&gt;
+&lt;p&gt;ゲームクライアントの改修について&lt;/p&gt;
+&lt;p&gt;10月までに構築していた基盤を、全面的に見直す大規模な改修作業を進めてきました。現在は、その作業のほとんどが完了しています。&lt;/p&gt;
+&lt;p&gt;まだ一部調整が残っていますが、より安定した快適なプレイ環境を提供するために不可欠な作業ですので、ご理解いただけますと幸いです。&lt;/p&gt;
+&lt;p&gt;デザイン制作物について&lt;/p&gt;
+&lt;p&gt;Ninacci様の多大なご尽力により、多数の新規リソースが準備されました。
+「オニ」キャラクターが新たに追加され&lt;/p&gt;
+&lt;p&gt;「牛娘（うしむすめ）」キャラクターについても、1月公開予定のビルドに実装可能なレベルまで必要なリソースがすべて制作されています。&lt;/p&gt;
+&lt;p&gt;そのほかにも、多数のモンスターH関連リソースを制作していただいており、その成果は以下でご覧いただけます。&lt;/p&gt;
+&lt;p&gt;ストーリーについて&lt;/p&gt;
+&lt;p&gt;現在執筆していたストーリー内容について疑問を感じ、アンケートを実施したところ、約40％の方から否定的なご意見をいただきました。&lt;/p&gt;
+&lt;p&gt;この結果を受け、世界観およびストーリーを一から再構築する決断をいたしました。&lt;/p&gt;
+&lt;p&gt;当初のストーリーは、ある理由から男性主人公（プレイヤー）を愛するようになった女神が、主人公の死をきっかけにループを繰り返させる、という構成でした。&lt;/p&gt;
+&lt;p&gt;主人公自身はそのループを自覚していませんが、ダンジョンの深層は女神の力が及ばない領域であり、そこに残されたループの痕跡を辿ることで、少しずつ記憶を取り戻していく物語でした。&lt;/p&gt;
+&lt;p&gt;全12章構成の長編ストーリーであり、『Project Sena』で諸事情により実現できなかった本格的な長編をどうしても描きたいという思いから、時間をかけて執筆してきました。&lt;/p&gt;
+&lt;p&gt;しかし改めて見つめ直した結果、プレイヤーと交流する女性キャラクターたちが苦しみ、物語の都合で消費されてしまうような構造は、自分が本当に描きたいものではないと判断しました。&lt;/p&gt;
+&lt;p&gt;そのため、このストーリーについては次の機会へと見送ることにいたしました。&lt;/p&gt;
+&lt;p&gt;一年の締めくくりとして&lt;/p&gt;
+&lt;p&gt;昨年に続き、今年も本当に多くの応援をいただきました。心より感謝申し上げます。&lt;/p&gt;
+&lt;p&gt;来年も HUuuUGe をどうぞよろしくお願いいたします。私たちも皆さまの期待に応えられるよう、全力でゲーム制作に取り組んでまいります。&lt;/p&gt;
+&lt;p&gt;引き続き温かく見守っていただけましたら幸いです。改めて、ありがとうございました。今後ともよろしくお願いいたします。&lt;/p&gt;
+&lt;p&gt;个人评论：&lt;/p&gt;
+&lt;p&gt;这个体验版是支援方案的体验版比公开的版本多了五个角色，对比最开始的体验版目前多了以下内容：
+多了一些异常状态【不过效果没有实装】，回复之类的技能正式实装了。
+妹子会被怪嘲讽后加压力【目前还看不出来压力满了会怎么样】。&lt;/p&gt;</description></item><item><title>【SLG/生肉】快感線直通 おさわりJK痴〇電車（RJ01523105）</title><link>https://v2acg.github.io/posts/kgs8cgs084csg80o/</link><pubDate>Tue, 23 Dec 2025 07:05:47 +0000</pubDate><guid>https://v2acg.github.io/posts/kgs8cgs084csg80o/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-kuai-gan-xian-zhi-tong-osawarijk-chi-dian-ju-rj01523105-M-oK" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+はにかみスイッチ&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日
+2025年12月19日 0时&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;少女 电车 口内射精/口爆 潮吹&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;188.86MB&lt;/p&gt;
+&lt;p&gt;概要
+在上下学高峰时段挤上电车，发现同班同学就在身边
+被人潮推挤时不小心碰到她的胸口，却听到她说「可以摸哦」……&lt;/p&gt;
+&lt;p&gt;本作是一款在电车上进行猥亵行为的模拟游戏。
+※体验版仅包含猥亵场景（制服状态）&lt;/p&gt;
+&lt;p&gt;角色&lt;/p&gt;
+&lt;p&gt;同班女同学。
+仅是偶尔交谈的程度，并未交往。
+猥亵场景
+猥亵场景（制服）
+进行猥亵行为的场景。
+玩家也可主动触摸。
+当心形计量槽蓄满后最终会……&lt;/p&gt;
+&lt;p&gt;猥亵场景（裸露）
+可更换服装。更换服装后能点击的按钮会增加。
+口交场景
+口交、手淫场景。可通过拖拽操作控制女孩动作。
+插入场景
+可选择制服或裸露服装。也可进行拖拽操作。&lt;/p&gt;</description></item><item><title>【ACT/生肉】極煌戦姫ミストルティア2 黒の女王と逆襲の淫獄（RJ01525197）</title><link>https://v2acg.github.io/posts/o0gssw4ws88s8oi6/</link><pubDate>Mon, 22 Dec 2025 04:37:27 +0000</pubDate><guid>https://v2acg.github.io/posts/o0gssw4ws88s8oi6/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/act-sheng-rou-ji-huang-zhan-zhen-misutoruteia2-hei-no-nv-wang-to-ni-xi-no-yin-yu-jFwm" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+ミルフィーユ/ぷちミルフィーユ&lt;/p&gt;
+&lt;p&gt;发售日
+2025年12月19日 0时&lt;/p&gt;
+&lt;p&gt;系列名
+エッチなベルトスクロールアクション&lt;/p&gt;
+&lt;p&gt;作者
+Ｒ．Ｙ．Ｏ．&lt;/p&gt;
+&lt;p&gt;剧情
+上田ながの&lt;/p&gt;
+&lt;p&gt;插画
+緑木邑&lt;/p&gt;
+&lt;p&gt;声优
+鈴原なぎ / 御苑生メイ / こたつみやこ / 神戸日向 / 琥珀実紅 / 倉林なつ / 一原わこ / 萩原えま / 高坂柚希&lt;/p&gt;
+&lt;p&gt;音乐
+斉藤淳一 / 宮原まお&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;动作有配音有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;动画 变身女主 异种X 命令/强迫 羞耻/耻辱 多P/乱交 巨乳/爆乳 贫乳/微乳&lt;/p&gt;</description></item><item><title>【SLG/生肉】Lust Room ～先輩との秘密の放課後～（RJ01450973）</title><link>https://v2acg.github.io/posts/cowswc8socg888wc/</link><pubDate>Mon, 22 Dec 2025 04:33:44 +0000</pubDate><guid>https://v2acg.github.io/posts/cowswc8socg888wc/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-lust-room-xian-bei-tono-mi-mi-no-fang-ke-hou-rj01450973-KNMB" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+MosoGames&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日
+2025年08月30日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语英语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;胸部/奶子 换装 断面图 学校/学园 被NTR(苦主视角) 软色情 内射/中出&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;188.04MB&lt;/p&gt;
+&lt;p&gt;游戏概要
+这是一款模拟游戏。
+在欲望充斥的密室中，和学姐尽情地——。
+瞒着她的男朋友，偷偷相会的背德与快感时光。
+忘却时间与道德，只是彼此渴求。
+特色亮点&lt;/p&gt;
+&lt;p&gt;通过 Live2D × Unity 实现复杂且极具临场感的动画表现&lt;/p&gt;
+&lt;p&gt;服装可自由穿脱，可在任意时机切换多种动作&lt;/p&gt;
+&lt;p&gt;随着时间流逝而变化的场景，以及因体位不同而呈现的多样情景可供欣赏&lt;/p&gt;
+&lt;p&gt;支持两种视觉模式切换，并实装了口枷配件。
+游戏过程中，学姐的男朋友会不时打来电话，进一步增强背德感。&lt;/p&gt;
+&lt;p&gt;实装眼罩，通过剥夺视野带来更强的紧张感与兴奋感。
+不仅有密室场景，还收录了更能激发背德感的酒店场景。
+游戏内容
+游玩时间约为 5 分钟，但组合方式无限。
+与心仪的学姐一起，尽情享受随心所欲的特别时光。
+※本作品没有剧情或结局。
+※登场角色均为 18 岁以上。
+语音：@pincree（Twitter/X）
+环境音/音效：DLsite 创作者学园
+AI 使用部分
+背景图片（有追加修改）
+□ ci-en：
+□ twitter：&lt;/p&gt;</description></item><item><title>【SLG/生肉】NPC姦3D ～海辺の町とエロMOD～（RJ01423028）</title><link>https://v2acg.github.io/posts/0so0cwg4488scc95/</link><pubDate>Mon, 24 Nov 2025 02:43:04 +0000</pubDate><guid>https://v2acg.github.io/posts/0so0cwg4488scc95/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/slg-sheng-rou-npc-jian-3d-hai-dao-no-ting-toeromod-rj01423028-0qDC" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+アンナ&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用viviON点数进行支援&lt;/p&gt;
+&lt;p&gt;发售日
+2025年07月05日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;3D作品 触摸/抚摸 平淡/冷淡 奇幻 强X 褐皮/晒痕 巨乳/爆乳 无表情&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;606.42MB&lt;/p&gt;
+&lt;p&gt;你能够进入游戏世界的「你」。
+某天，你意外进入了一款 RPG 游戏的世界。
+这款游戏装着 H 模组，NPC 全都是美少女，而且想做什么都可以。
+你可以突然袭击村民、
+可以随意进入女汤、
+也可以让 NPC 摆出各种色情姿势，再把她们召集到一起。
+在这个没有结局的世界里，
+尽情向 NPC 发泄你的欲望吧。
+无论你做什么——她们都不会反抗……。
+本作使用 Unity 制作。
+请务必先通过体验版确认能正常运行后再购买。
+这是一个 在 3D 世界里到处侵犯 NPC 的短篇模拟游戏。&lt;/p&gt;</description></item><item><title>【自购】【ACT/生肉】喵灵之书/ネコロノミコンVer5.0【度盘/989.65MB】</title><link>https://v2acg.github.io/posts/occ04skkw0kgw4c3/</link><pubDate>Mon, 08 Sep 2025 15:33:02 +0000</pubDate><guid>https://v2acg.github.io/posts/occ04skkw0kgw4c3/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/KQWKqpuTx1" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+でじたるおなほ～る&lt;/p&gt;
+&lt;p&gt;发售日
+2018年06月30日
+更新信息
+2018年12月06日&lt;/p&gt;
+&lt;p&gt;插画
+e4 / からあげ。&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;怀孕 挤奶 分娩 多人运动 兽X 异种X&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;989.65MB&lt;/p&gt;
+&lt;p&gt;购买截图
+———————-版本更新5!!————————
+追加要素
+·追加了ヒル的游戏结束场景。
+·追加了最终BOSS的游戏结束场景。
+———————-版本更新4!!————————-
+追加要素
+·追加了蝙蝠的游戏结束场景。
+·在画廊里追加了角犬的动画阅览。
+———————-版本更新3!!————————-
+追加要素
+·追加了角犬的游戏结束场景。
+·加强了游戏结束的演出
+———————-版本更新2!!————————-
+追加要素
+·追加了强兽人的游戏结束场景。
+·追加了攻略提示文件夹。
+·在提示中记载有【机关的提示.htm】里面没有记载的开关或是门的提示。
+变更要素
+·由于在画廊里的游戏结束场景阅览里，
+触手游戏结束的场景的前半部分的演出有等待时间，
+于是我们将前半的演出剪掉了。
+（游戏中的触手GameOver的演出没有被剪）
+———
+■博客&lt;/p&gt;
+&lt;p&gt;■概要
+这是一款描述魔法之国的猫耳少女露丽耶，
+为了取回被小偷盗走的喵魂之书，
+使用魔法的奋斗探索型动作游戏。
+■系统
+·攻击
+切换火与冰两种属性的魔法，朝着怪物的弱点直击吧。
+可以通过持续按住攻击键进行蓄力从而使出更加强力的魔法。
+魔法可以向上或是向下射击以此应对不同位置不同大小的敌人。
+可以使用魔法来和机关取得互动或是排除障碍。
+·H攻击&amp;amp;必杀技
+在受到过多的伤害后衣服便会破损进入裸体的状态。
+如果在该状态下被敌人抓到的话便会受到H的攻击。
+被复数的敌人抓到的话便会进入轮奸状态。
+但是请放心。
+露丽耶具有将精液转化成魔力的特殊能力。
+在被一通侵犯过后便可以通过必杀技来将危机转变为生机。
+当然也可以消费必杀技点数来回复体力。
+即使是不擅长动作游戏的人也，可以通过被侵犯来进行回复或是使用必杀技这样强行地进行游戏。&lt;/p&gt;</description></item><item><title>【SLG/生肉】対決！(自称)関西イチの美少女除霊師VS最強ド変態おさわり幽霊（RJ01441080）</title><link>https://v2acg.github.io/posts/ocgocwwcwco4g4ow/</link><pubDate>Mon, 01 Sep 2025 03:19:42 +0000</pubDate><guid>https://v2acg.github.io/posts/ocgocwwcwco4g4ow/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/Ra0RbEPOdpa6pqnh" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+十色亭&lt;/p&gt;
+&lt;p&gt;发售日
+2025年08月31日 0时&lt;/p&gt;
+&lt;p&gt;作者
+黒色十色&lt;/p&gt;
+&lt;p&gt;插画
+黒色十色&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;模拟有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日语&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;触摸/抚摸 喜剧 潮吹 乳头刺激 哦吼淫叫 无插入/无正戏 巨乳/爆乳 方言&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;106.02MB&lt;/p&gt;
+&lt;p&gt;调皮的关西腔美少女驱魔师，被触摸反击！
+对决！自称关西第一的美少女驱魔师 VS 最强变态触摸幽灵 [十色亭]
+听闻有个最强变态幽灵（玩家），在街上对路过的女性恶作剧的传闻后，自称“关西第一美少女驱魔师”的 娜娜酱 特意前来驱魔。
+她原本以为这只是像往常一样轻松地随手一祓就能解决的差事，
+却没想到将要面对的，是拥有最强变态力量的恶灵——
+就用快感把她彻底折磨得一团糟吧！&lt;/p&gt;
+&lt;p&gt;游戏特色&lt;/p&gt;
+&lt;p&gt;实时触摸攻防！ 在被强行超度之前，先让她高潮吧！&lt;/p&gt;
+&lt;p&gt;只需一只鼠标就能游玩！&lt;/p&gt;
+&lt;p&gt;她会使用符咒和咒语攻击你，试图让你成佛，而你要把握破绽，率先用触摸让她崩溃，赢得胜利！&lt;/p&gt;
+&lt;p&gt;其他说明&lt;/p&gt;</description></item><item><title>【同人声音/生肉】【RJ01436595】【mp3】【KU100】ヤリモクナンパとかまじぴえん4 ～ナイトプールでやばたんドリーム♪～【度盘/158MB】</title><link>https://v2acg.github.io/posts/kks8o8ow044gk0gy/</link><pubDate>Mon, 25 Aug 2025 03:49:28 +0000</pubDate><guid>https://v2acg.github.io/posts/kks8o8ow044gk0gy/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/uqZbBSURGLPYVO5Q" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;RJ01436595_img_main&lt;/p&gt;
+&lt;p&gt;社团
+Deep;Dahlia
+声优
+涼花みなせ / 雲八はち
+作品内容
+コンセプト: ナイトプール×美乳ボディ食べ散らかしビキニパーティー♪
+【KU100】ヤリモクナンパとかまじぴえん4 ～ナイトプールでやばたんドリーム♪～ [Deep;Dahlia]
+色白ナイトプール女子2人組による、極上のダブルビキニハーレム!
+ヤリモクJKセフレ”ありさ”に、スレンダー美乳ボディJK”みずは”が加わり、ナイトプール&amp;amp;ラブホでガンガンパワーセックス♪
+片方のメスにお射精サポートをしてもらいつつ、もう片方の色白ビキニボディにハメまくり!
+ビキニ着衣の抱き頃ボディに思う存分がっつりハメたり、突然ぶりっこをやめてメス声へ豹変する瞬間を楽しんだり、ダブル密着手コキ&amp;amp;バキュームフェラでご奉仕してくれたり――。
+今ドキJK2人組があなたの逞しいセックスに最初から最後までメロメロになってくれる、ビキニ美乳JKまとめ食いプレミアムハーレム音声作品です♪
+あまあまだけど下品なえっちで今ドキ女子をベッドに並べて食べ放題♪
+KU100収録によるとろとろなめらか生声音質で、小悪魔えち映えオールナイトセックスをぜひご堪能ください――!
+【KU100】ヤリモクナンパとかまじぴえん4 ～ナイトプールでやばたんドリーム♪～ [Deep;Dahlia]
+ヒロイン紹介♪
+【KU100】ヤリモクナンパとかまじぴえん4 ～ナイトプールでやばたんドリーム♪～ [Deep;Dahlia]
+◇ありさ (CV:涼花みなせ)
+クール&amp;amp;少々気が強めなダウナー系のJK○。
+流行に敏感の今ドキ女子。趣味は写真共有SNS。
+胸はやや控えめなものの、色白スレンダーボディを武器にどんなビキニでも可愛く着こなす。
+度重なるヤリモクオフパコで、すました顔してすっかり全身開発済み。
+密着ベロテクMAX耳舐めでいつもオスの射精サポートをしてくれる。
+セフレ堕ち済みでも可愛くク―ル。
+感度敏感で、ことあるごとに可愛い声を出してくれる。
+◇みずは (CV:雲八はち)
+あざとくしたたか系&amp;amp;優等生系のJK〇。
+天然小悪魔。色白美乳の激モテ愛されボディ。
+誰とでも仲良くできる明るい系女子。しっかり者。
+ありさよりも後にできたあなたのセフレで、頼めばなんでもやってくれる献身的女子。
+可愛い顔して抜け目がない。キス&amp;amp;ご奉仕大好きで、小顔バキューム&amp;amp;上目遣いでのベロテクが驚異的。
+基本いい子&amp;amp;前向きだけど奥をとんとんしてあげると――?
+トラック構成
+我慢無理?我慢無理?
+ほらっ♪ ほらっ♪ ほらっ♪ ほらっ♪ じゃあ一緒にイこっ…♡」
+「わっ！?♡
+しゅっごい♡ これしゅっごい♡ お肉とお肉、ばっちゅばちゅ当たるっ♡
+…おぐっ♡ あたりゅっ♡ おっふ♡ 角度えっぐ♡
+しゅごい♡ しゅっご♡ しゅごい♡ これしゅごい♡
+おまんこめっちゃ固定されりゅっ♡ ぱんぱんめっちゃ密着すりゅっ♡」
+プレイ内容:みずは[対面座位+首絞め+中出し] ありさ[耳舐め+囁き]
+☆射精のお時間 04:25
+◆トラック07 ありさと激しくラブラブ立ちバックガチ交尾♪ 感度抜群キュートボイス&amp;amp;ふっくら美乳ボディに包まれながらオールナイトセックス♪ (08:16)
+「あー出る出る出る出る出るっ♡ おんッ――！♡
+ねー待っでほんとらめ――！
+…あっお尻つかみなおされたっ♡ すっごいちからづよっ♡ んお゛♡
+めっ・ぢゃぎもぢっ…！♡」
+「あーん、ありさちゃん両足ぱたぱたさせてて可愛いー…♪
+舌出しながら喘いでるのも超えっち～…♪
+ほら、ありさちゃん脚閉じちゃだ～め♪
+脚広げて、ハメ潮いっぱい吹いてあげよ～…?
+…えい♪」
+プレイ内容:ありさ[立ちバック+立位+首絞め+中出し] みずは[手マン+耳舐め+囁き]
+☆射精のお時間 06:26
+◆トラックEX ビキニJKコンビの仲良し授乳甘イキサポート♪ 生吐息&amp;amp;耳舐めプレミアムハーレムオナサポ♪ (07:25)
+「おっぱいちゅき? おっぱいちゅき～?
+みずはたちのスレンダー色白ボディ、いっぱい堪能しちゃってね～…♪
+ほ～ら、むぎゅうう…♪
+おちんぽぉ…、しゅっ・しゅっ・しゅっ・しゅ…♪」
+「負けちゃお? 負けちゃお? いくよ? いくよ?
+はい、せーのっ♡
+3…、2…、1…♡
+ぜろ…♪ ぜろ…♪ ぜろ…♪ ぜろ…♪」
+☆射精のお時間 05:59
+◆フリートーク 涼花みなせ (03:30)
+ありさ役・涼花みなせ様によるフリートークです。
+◆フリートーク 雲八はち (05:50)
+みずは役・雲八はち様によるフリートークです。
+クレジット (敬称略)
+CV:
+涼花みなせ –
+雲八はち –
+ジャケットイラスト:
+ろむむ –
+ジャケットデザイン:
+こはまる –
+シナリオ:
+Deep;Dahlia –
+企画・制作:
+Deep;Dahlia –&lt;/p&gt;</description></item><item><title>【同人声音/生肉】【RJ01435444】【mp3】✅8/23まで限定特典&amp;セール中✅貴方を大好きな低音ダウナー有名コスプレイヤー×2と誘惑純愛ハーレムえっちでハッピーエンドする音声【左右舐め♡カウントダウン♡】【度盘/164MB】</title><link>https://v2acg.github.io/posts/80socw4s0w80osgg/</link><pubDate>Mon, 25 Aug 2025 03:49:18 +0000</pubDate><guid>https://v2acg.github.io/posts/80socw4s0w80osgg/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/rAD519zrA7_7alBL" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;RJ01435444_img_main_360x360_edit_1203515298817919&lt;/p&gt;
+&lt;p&gt;社团
+おいしいおこめ
+声优
+御子柴泉
+【期間限定！】今だけの購入特典♪
+✅8/23まで限定特典&amp;amp;セール中✅貴方を大好きな低音ダウナー有名コスプレイヤー×2と誘惑純愛ハーレムえっちでハッピーエンドする音声【左右舐め♡カウントダウン♡】 [おいしいおこめ]
+◆【発売から10日間限定！人気レイヤーのWフェラ&amp;amp;騎乗位イラストが付属!】◆
+おかずに最適！五日寝先生描き下ろしの
+・カズハとキョウカのWフェラチオ
+・キョウカとの対面座位えっち
+のイラストが付属します♡
+なんとWフェラのイラストには限定の顔射差分も…♡
+※こちらの特典は2025年8月23日23:59までの配布となります。
+ご購入後はライブラリに自動登録されますのでご安心下さい✨️
+◆【発売直後限定30%OFFセール】◆
+今回も発売直後にお手に取って下さる方限定で、通常価格【1,650円】が今だけ【1,155円】に!
+発売から28日間30%オフでお買い求めいただけます♡
+※期間終了後は通常価格に戻りますのでご注意下さいませ。
+✅8/23まで限定特典&amp;amp;セール中✅貴方を大好きな低音ダウナー有名コスプレイヤー×2と誘惑純愛ハーレムえっちでハッピーエンドする音声【左右舐め♡カウントダウン♡】 [おいしいおこめ]
+・総再生時間:111分53秒(1時間51分53秒)
+・SE無し差分込み:205分39秒(3時間25分39秒)
+■トラックリスト
+01.導入～留守番中に貴方に片思い中の人気コスプレイヤーのキョウカが来訪♡(5分8秒)
+プレイ内容:恋人の人気コスプレイヤーとイチャラブベロチュー♡
+02.人気レイヤーキョウカに勃起バレして内緒の耳舐め手コキでカウントダウン射精♡(20分28秒)
+プレイ内容:無声囁き、長い舌で耳舐め、誘惑でえっちのお誘い、こっそり浮気手コキ、言葉責め、淫語責め、心情代弁、射精懇願させられ、カウントダウン、イケ♡命令、射精
+03.貴方を大好きなキョウカに誘惑され処女喪失ベロチュー浮気えっちで中出し♡(16分24秒)
+プレイ内容:囁きたっぷり、処女喪失えっち、騎乗位、心情代弁、淫語責め、ファーストキス捧げられ、キスしたままセックス、中出し
+04.キョウカとカズハから仲良く3Pハーレムえっちのお誘い♡(5分22秒)
+05.キョウカとカズハの2人から愛されながら吐息たっぷりW耳舐め手コキ&amp;amp;カウントダウンでお射精♡(12分6秒)
+プレイ内容:両耳舐め、両耳囁き、W手コキ、キス、心情代弁、カウントダウン、『ゼロ♡』で射精
+06.水着コスのキョウカとカズハから朝立ちオチンポをWフェラチオ&amp;amp;W乳首カリカリで口内射精♡(12分48秒)
+プレイ内容:Wフェラ、W乳首責め、玉舐め、貴方のオチンポを奪い合い♡、口内射精、ヒロイン同士で精液をベロチュー口移し♡
+07.人気コスプレイヤー2人に愛されながらカズハに中出し→キョウカに中出しをして純愛ハッピーエンド♡(19分9秒)
+プレイ内容:ベッドで3P、キス、好き連呼、乳首責め、耳舐め、キョウカに優越感煽りされながらカズハに中出し、カズハに「お射精禁止♡」されながらキョウカに中出し♡
+EX.声優の御子柴泉様のフリートーク♡(5分19秒)
+形式&amp;amp;クレジット♪
+■形式
+・収録:最高音質の「KU100」マイクで収録
+・マイク:全編バイノーラルで収録
+・ファイル形式:WAV、MP3同梱
+※本作品は専用スタジオで、全編最高音質のKU100マイクにて収録を行っています。
+また、バイノーラル形式を採用しているため、
+イヤホン又はヘッドホンでのご視聴を前提に吐息や舐め音を編集しております。
+ぜひご着用の上でお聴き下さいませ♪
+■クレジット
+・CV
+御子柴泉様&lt;/p&gt;</description></item><item><title>【3D/PC/生肉】女神メルのおさわりH神判</title><link>https://v2acg.github.io/posts/44ccwkwc8kk8wcgt/</link><pubDate>Tue, 24 Jun 2025 07:06:05 +0000</pubDate><guid>https://v2acg.github.io/posts/44ccwkwc8kk8wcgt/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/UtK5pLs6F9xiSmTS" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;女神メルのおさわりH神判&lt;/p&gt;
+&lt;p&gt;入正链接：&lt;/p&gt;
+&lt;p&gt;作品信息：&lt;/p&gt;
+&lt;p&gt;社团名
+羽綿たわわ🍑&lt;/p&gt;
+&lt;p&gt;发售日
+2025年06月20日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;模拟有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;概述：梅尔女神的“奥萨瓦里 H 判定”是一款以 ISExKAI 宇宙为背景的 3D 触摸式色情游戏。玩家通过自由移动的视角模拟器与活泼但笨拙的女神梅尔亲密互动。该游戏注重触觉互动，玩家的表现由梅尔进行评估，最终会根据行为得出判定结果.&lt;/p&gt;</description></item><item><title>【RPG/生肉】エステサロンノクターン（RJ01397284）</title><link>https://v2acg.github.io/posts/8cc4gws8kookgc4w/</link><pubDate>Tue, 03 Jun 2025 03:43:32 +0000</pubDate><guid>https://v2acg.github.io/posts/8cc4gws8kookgc4w/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/9788b9D9EOhsCu0p" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+コラプト&lt;/p&gt;
+&lt;p&gt;贩卖日
+2025年05月24日&lt;/p&gt;
+&lt;p&gt;更新信息
+2025年05月25日
+更新信息&lt;/p&gt;
+&lt;p&gt;作者
+Jkank&lt;/p&gt;
+&lt;p&gt;剧情
+HNZM / アクノス所長&lt;/p&gt;
+&lt;p&gt;插画
+けだまとん&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;冒险有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;人外娘/魔物娘 亲热/甜蜜 女体化 性转换（TS） 被NTR 乳交 乳头刺激 巨乳/爆乳&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;374.57MB&lt;/p&gt;
+&lt;p&gt;概要
+当前版本：1.1.1（2025年5月25日提交）
+类型：数字小说+迷你游戏合集（9种）
+预计游玩时间：约1小时
+静态画面数量：基础11张（总计158张）
+结局：4种
+制作：Jkank
+剧本：HNZM（施术·后日谈部分）/ 阿克诺斯所长（约会部分）
+CG：kedamaton（角色设计）/ Castella
+将女性变为吸血鬼的美容沙龙
+故事围绕主人公”优”与其女友”朝阳”所在城市新开张的美容沙龙”夜曲”展开。
+临近夏季，热衷塑形的朝阳半强迫地拉着优踏入沙龙大门。
+初次体验显著效果后，朝阳决定每周持续光顾。
+而优却对店长”真”的气质感到莫名违和，
+为守护女友安全，也决定每周陪同前往。
+但相比家境优渥的朝阳，经济拮据的优
+不得不通过打工赚取高昂护理费用。
+通过兼职小游戏努力攒钱，誓要将朝阳从真的魔掌中解救出来！
+登场角色&lt;/p&gt;</description></item><item><title>【RPG/生肉】ヨミニエ（RJ01402610）</title><link>https://v2acg.github.io/posts/cg4s44gwggkgo8ah/</link><pubDate>Tue, 03 Jun 2025 03:43:05 +0000</pubDate><guid>https://v2acg.github.io/posts/cg4s44gwggkgo8ah/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/ZpM1-9QUYIWlB143" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+大人の道楽&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用DL点数进行支援&lt;/p&gt;
+&lt;p&gt;贩卖日
+2025年05月31日 0点&lt;/p&gt;
+&lt;p&gt;更新信息
+2025年06月02日
+更新信息&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;角色扮演有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;着衣/穿衣 男主人公 亲姐 正太×姐姐 怀孕 通奸/和奸 骨科 处女&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;181.3MB&lt;/p&gt;
+&lt;p&gt;配置要求&lt;/p&gt;
+&lt;p&gt;RPGツクールMZが動作する環境&lt;/p&gt;
+&lt;p&gt;无知姐弟的色欲陷阱森林大冒险
+主人公刹那（可改名）与姐姐奈莉（可改名）相依为命。某日，刹那被选为献给北方森林之神”黄泉大人”的活祭品。
+不愿赴死的弟弟瑟瑟发抖时，姐姐偷偷跟了上来
+两人一同踏入森林深处——
+然而北方森林暗无天日，布满诡异陷阱
+若神智溃散，更会被神秘怪物追逐…
+这对姐弟能否突破这片幽暗森林？
+本作是一款通过拾取随机道具进行炼金
+反复挑战色欲陷阱的逃脱游戏
+姐弟二人的性知识均为零
+无战斗内容
+–注意事项–
+坏结局中将出现弟弟被触手侵犯的情节
+（可通过选项关闭，仅以黑屏处理）
+◆男性主人公的姐弟近亲性爱（附加触手侵犯弟弟内容）
+◆情色元素：正太×御姐、色情陷阱（仅弟弟涉及触手情节）
+◆基础CG16张（姐姐14张/弟弟2张）
+◆游戏时长：约30分钟~1小时
+◆本游戏使用RPG制作大师MZ开发
+◆购买前请务必通过试玩版确认运行情况&lt;/p&gt;</description></item><item><title>【SLG/生肉/安卓/PC】Twisted World Remake V0.15【度盘/800MB】</title><link>https://v2acg.github.io/posts/socwokw4cgso8k0d/</link><pubDate>Fri, 09 May 2025 03:51:12 +0000</pubDate><guid>https://v2acg.github.io/posts/socwokw4cgso8k0d/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/Xqn_KDlL_cTg9Nqi" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;警告，游戏内容包含futa，对此类内容感到不适的不建议下载
+yysy，封面第一眼还以为是停云&lt;/p&gt;
+&lt;p&gt;游戏简介
+Twisted World is an adult point and click visual novel oriented on a fictional universe with reversed gender roles.
+The main plot of the video game unfolds in SlurpyCity, a small city on the brink of extinction following the devastating effects of World War III and the ensuing pandemic. The war triggered the release of a bioengineered virus that drastically altered human sexual chromosomes, leading to new genetic variants and the emergence of a new human gender known as Futanaris. This virus has proven to be tolerable and even beneficial for individuals such as Females and Futanaris. However, it has had a lethal effect on the male population, causing a high mortality rate in this group and dramatically reducing the global male birth rate.
+The absence and restriction of not being able to have any sexual interaction with a man is leaving all women sexually frustrated and beginning to revolt against the government causing crimes every day.
+In this game you play as a lewd outsider that died on our world, and got reincarnated into another persons body, thanks to making a HUGE deal with the Demon Queen, now you are indebted to her and must help her in her plan of revenge over the angels.
+ONLY YOU who has enough virality and a huge sex drive,  can challenge these sexually frustrated people, and  save humanity from extinction!&lt;/p&gt;</description></item><item><title>【AVG/SLG/生肉】サキュせかTE 〜誘惑に負けないで:サキュバスに管理された世界で〜【度盘/9.68G】</title><link>https://v2acg.github.io/posts/g844k080ckco0o4d/</link><pubDate>Mon, 07 Apr 2025 03:41:28 +0000</pubDate><guid>https://v2acg.github.io/posts/g844k080ckco0o4d/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/f7IJwMJpvaek4EVo" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;25/04/06&lt;/p&gt;
+&lt;p&gt;サークル名
+若葉祥慶 フォローする&lt;/p&gt;
+&lt;p&gt;販売日
+2025年04月06日 0時&lt;/p&gt;
+&lt;p&gt;シリーズ名
+サキュせか&lt;/p&gt;
+&lt;p&gt;シナリオ
+玄武聡一郎 / うしおたくみ&lt;/p&gt;
+&lt;p&gt;イラスト
+うろ / まる。 / 七星電灯 / こんてつ / いな子 / うぶお&lt;/p&gt;
+&lt;p&gt;声優
+海王茉菜 / 海音ミヅチ / はかたあきこ / 高梨はなみ / 麦芽ぷりん / 餅梨あむ / 遥香 / 葵時緒 / わさわさふさこ / 唯香 / 花屋敷やや / 妃蘭々 / 御苑生メイ / 西園かなえ / 藍川珪 / 乃葉奈 / 葉梨キコカ / 小村スイ / 巻間糸 / 北大路ゆき&lt;/p&gt;</description></item><item><title>【自购】【RPG/生肉】【浮遊魔法都市のレイ】～直系の魔導士～【度盘/3.27G】</title><link>https://v2acg.github.io/posts/880wockskkokk8mi/</link><pubDate>Mon, 07 Apr 2025 03:37:36 +0000</pubDate><guid>https://v2acg.github.io/posts/880wockskkokk8mi/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/e-TLB-Dfz1QyJwMd" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+同人サークルGyu!
+关注8,522&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用DL点数进行支援&lt;/p&gt;
+&lt;p&gt;贩卖日
+2024年12月28日&lt;/p&gt;
+&lt;p&gt;更新信息
+2025年01月21日
+更新信息&lt;/p&gt;
+&lt;p&gt;作者
+gyu&lt;/p&gt;
+&lt;p&gt;剧情
+gyu&lt;/p&gt;
+&lt;p&gt;插画
+gyu&lt;/p&gt;
+&lt;p&gt;声优
+陽向葵ゅか / かの仔 / 本多未季 / 眠音りま / 藤村莉央 / 西浦のどか / 砂糖しお&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;角色扮演有声音有音乐有动画&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;青梅竹马 卖春/援交 风俗/泡泡浴 被NTR 故意被NTR/绿奴 怀孕 出产 异种X&lt;/p&gt;</description></item><item><title>【自购】【生肉/act】アマナアライブ!!【度盘/252MB】</title><link>https://v2acg.github.io/posts/g8ksw4okccw8gck0/</link><pubDate>Tue, 01 Apr 2025 07:20:47 +0000</pubDate><guid>https://v2acg.github.io/posts/g8ksw4okccw8gck0/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/R-3_ytk0UhiLcE2J" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+ラクライ
+关注3,463&lt;/p&gt;
+&lt;p&gt;支援社团也可以使用DL点数进行支援&lt;/p&gt;
+&lt;p&gt;贩卖日
+2025年02月06日&lt;/p&gt;
+&lt;p&gt;更新信息
+2025年03月24日
+更新信息&lt;/p&gt;
+&lt;p&gt;作者
+らくあ / らい&lt;/p&gt;
+&lt;p&gt;剧情
+らい&lt;/p&gt;
+&lt;p&gt;插画
+らい&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;动作有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;癖好/性趣 女主人公 胸部/奶子 魅魔/淫魔 亲热/甜蜜 淫乱 言语刺激 男性受&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;350.24MB&lt;/p&gt;
+&lt;p&gt;「アマナアライブ!!」はUnityエンジンで作成された
+成年向け配信脱衣ハイスピードアクションゲームです
+世界の秘境や怪異でパルクールしながら配信するストリーマーサキュバス「アマナ」を操作して
+バラエティ豊かなアクションステージをハイスピードで駆け抜けましょう!
+でも気をつけて!
+配信中に服でも脱げてしまったらBANされてしまうかも…!?
+華麗なアクションをキメて同接者数を稼ぐのか!
+BANギリギリまで脱ぎまくって同接者数を稼ぐのか!
+数字が全ての配信界隈において
+アマナをトップストリーマーに導けるのはあなたです!&lt;/p&gt;</description></item><item><title>【SLG/未汉化】sisteralice 社团合集 16作【度盘/7.6G】</title><link>https://v2acg.github.io/posts/go44ok44ccss0ocv/</link><pubDate>Wed, 26 Mar 2025 06:57:11 +0000</pubDate><guid>https://v2acg.github.io/posts/go44ok44ccss0ocv/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/48tsuIUfqakcumHU" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;sisteralice这个社团专门作萝莉、幼女的作品，作品角色从Fata的伊莉雅到公主链接的小萝莉们不一而足，还有很多原创角色
+说起来也是在站内看到有大佬分享这个社团的游戏，然后就按图索骥找到了cice，费劲力气才学会了订阅=_=
+不过后来财力不足断订了，所以只有部分作品被我收集了
+这次就是小小的抛砖引玉，希望站内大佬能带来这个社团更多的作品 😀
+上传的资源没有密码，请在下载后修改后缀名为ZIP，并解压即可
+下面有部分预览
+PS：前段时间电报账号被盗，我的收藏毁于一旦，心痛到无法呼吸TAT。不过之前下载的一些大佬炼出来的AI步兵萝莉图还留存着，如果大家喜欢就在评论区留言吧，我空闲时就传上来&lt;/p&gt;
+&lt;p&gt;[Sisteralice] 117cmのコスプレ姫 Moon☆完全版
+[Sisteralice] 今夜のオカズ アニメこれくしょん
+[Sisteralice]ろりぽて
+【Sisteralice】妹おにゃほ
+かのちゃん(９)しょーがく３ねんせい
+こどもオナホコレクション一発目女児レイプカーニバルVer110
+こども抱き枕孕ませ女児オナホ一人目
+つぐちゃんの夏休み☆監禁女児レ●プ体験テスト版
+ひな(３)はじめてのおまんこあくめ
+よーちえんじえんこー☆イリヤ
+シャルロット(４)公衆便所レイプ.
+チョコたんラストオーダー負荷テスト版
+奇跡のこどものひ☆幼児れいぷ下見編
+女児オナホコレクションテスト版
+実娘みくたんの成長ハメ撮りビデオ
+香風智乃チャンネルテスト版&lt;/p&gt;</description></item><item><title>【ACT/生肉】しこバース・シコネクト!（RJ01336208）</title><link>https://v2acg.github.io/posts/840kwcokww0wo8wl/</link><pubDate>Tue, 25 Feb 2025 03:44:26 +0000</pubDate><guid>https://v2acg.github.io/posts/840kwcokww0wo8wl/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/s91SiLaYSrSW" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+えりんぎとろサーモン&lt;/p&gt;
+&lt;p&gt;贩卖日
+2025年02月22日 0点&lt;/p&gt;
+&lt;p&gt;系列名
+えりんぎとろサーモンエロゲシリーズ&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;冒险有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;大量汁/液 像素 萝 内射/中出 拘束 触手 机械X 潮吹&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;64.24MB&lt;/p&gt;
+&lt;p&gt;配置要求&lt;/p&gt;
+&lt;p&gt;必ず体験版で動作確認を行ってください。&lt;/p&gt;
+&lt;p&gt;通过感官链接沉浸快感！超VR情色探索冒险
+《自嗨次元·脑内直连！》是一款采用流畅点阵动态插画呈现的2D探索冒险游戏！
+在能将所有感官与现实链接的【超VR】世界中尽情享受愉悦的主角「蕾莫菲」。
+现实中名为「波娜」的她，是个无可救药的阴暗社交恐惧宅女……
+因此她最爱能安全便捷获得小弟弟快乐的超VR！
+当然【超VR】作为社交平台，过度放纵可能导致账号冻结！
+若遭冻结也别无他法，提交申诉后睡一觉吧…次日账号就会恢复！
+通过收集场景中的【认知碎片】、给运营发送反馈邮件，在巧妙周旋中尽情享受色色之事吧！
+◆角色介绍◆&lt;/p&gt;
+&lt;p&gt;主角 超VR形象「蕾莫菲」
+本作主人公！现实中是阴暗宅，在超VR中却有些飘飘然！
+热衷情色之事，每日沉迷虚拟极致高潮性爱。
+因仿真体验质量极高，被众人视为珍宝！
+夸张的失态高潮举止极为惹眼！因此成为冻号惯犯…
+蕾莫菲今日也在与冻结条搏斗中穿梭超VR！&lt;/p&gt;
+&lt;p&gt;主角 现实形象「波娜」
+蕾莫菲的现实姿态！如你所见的阴郁宅女，如你所见的热衷情色。
+在超VR中高潮时，现实肉体也会真实绝顶！
+更夸张的是，虚拟内射会莫名传送真实精液…黑科技啊。
+虽然超VR用户协议有警示条款，但波娜从不阅读规则，
+以为只是安全套体验，结果每日被内射。周围男性似乎都心照不宣！
+波娜终日沉溺超VR，发出淫靡喘息与狼狈高潮声！
+即便有被家人听见的风险，也难抵小弟弟带来的快感！
+◆在超VR享受极致性爱！但小心冻结风险◆
+被巨物深喉吞没！
+内部正在发生不得了的事…&lt;/p&gt;</description></item><item><title>【SLG/生肉】 【RJ01323466】Live2D 地雷電車ー地雷ちゃんの誘惑?ー【度盘/740MB】</title><link>https://v2acg.github.io/posts/0cgowo0kks4cswcb/</link><pubDate>Tue, 25 Feb 2025 03:26:16 +0000</pubDate><guid>https://v2acg.github.io/posts/0cgowo0kks4cswcb/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/kRCyQUBeS7Ww" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【Live2D】地雷電車ー地雷ちゃんの誘惑?ー
+动态Live2D好耶！
+游戏体量不大，虽然是电车题材但没有类似警惕度的玩法，个人玩下来觉得更像是简短的线性ADV拔作的感觉，刷到一定的h度和好感值就自然触发cg了，只用了十分钟左右吧，
+Live2D和配音做的非常棒！值得一试
+有三个主要的cg场景&lt;/p&gt;
+&lt;p&gt;入正链接&lt;/p&gt;
+&lt;p&gt;社团名
+ぱんきじしぇいく        关注603&lt;/p&gt;
+&lt;p&gt;贩卖日
+2025年02月19日&lt;/p&gt;
+&lt;p&gt;年龄指定
+R18&lt;/p&gt;
+&lt;p&gt;作品类型
+模拟有声音有动画&lt;/p&gt;
+&lt;p&gt;文件形式
+软件&lt;/p&gt;
+&lt;p&gt;支持语言
+日文&lt;/p&gt;
+&lt;p&gt;分类
+断面图 耳环/装饰品 学生 雌小鬼 电车 内射/中出 偷偷摸摸&lt;/p&gt;
+&lt;p&gt;文件容量
+769.38MB&lt;/p&gt;
+&lt;p&gt;毎朝、通勤中の電車で見かけるあの子
+つい、好奇心に駆られて痴○をしてみると、信じられない反応が返ってきた。
+H度と好感度を上げるために、様々な選択肢やアクションが用意されている。
+電車内での密やかな触れ合い、徐々にエスカレートする行為…。
+H度の他にも好感度を上げていくと、痴○をしたときの反応もどんどん変わっていきます!
+H度、好感度を上げることで会社に向かうだけの退屈な通勤時間をこの子との甘々な日常に変えていきましょう…!
+图片改后缀zip解压，分卷后缀删汉字，其他的不要动不要乱改
+两个分卷必须放在同一文件夹下后解压part1
+解压方式不对游戏文件不完整当然没法玩，别再问我是不是漏压了&lt;/p&gt;</description></item><item><title>【2D动画/生肉】カルル原神短动画【度盘/238MB】</title><link>https://v2acg.github.io/posts/g08w0og00skwcoos/</link><pubDate>Tue, 25 Feb 2025 03:24:08 +0000</pubDate><guid>https://v2acg.github.io/posts/g08w0og00skwcoos/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/b-VFV9B5-i2m" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;画风制作特别精良一个作者！&lt;/p&gt;
+&lt;p&gt;有能力的可以支持一下作者！
+投稿列表｜カルル｜pixivFANBOX
+カルル – pixiv&lt;/p&gt;</description></item><item><title>【同人图集/生肉】pixivうらちーぬ@リクエスト受付中 个人整理合集【度盘/990MB】</title><link>https://v2acg.github.io/posts/g4gg00wc4ocko0wk/</link><pubDate>Tue, 25 Feb 2025 03:08:56 +0000</pubDate><guid>https://v2acg.github.io/posts/g4gg00wc4ocko0wk/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/rG0qTt4I6Fmy" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;这一张图足以代表这一包合集的程度，直接到处&lt;/p&gt;
+&lt;p&gt;扣扣扣扣扣扣扣扣扣
+补多几个玉兰图&lt;/p&gt;
+&lt;p&gt;解压过程
+mp4改成zip解压&lt;/p&gt;</description></item><item><title>【RPG/生肉】深蒼の吸血鬼ver1.09</title><link>https://v2acg.github.io/posts/w0gg04g8oowo0sae/</link><pubDate>Mon, 20 Jan 2025 03:27:43 +0000</pubDate><guid>https://v2acg.github.io/posts/w0gg04g8oowo0sae/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/U1Enb6MYbpMW" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;2018年的老作品了，站里有人发过，传送门：【RPG/生肉】深蒼の吸血鬼ver1.06 – 萌幻之乡 (mhh1.com)
+玩法比较少见，但很有趣，不过当时打的时候没翻译，有些机制触发起来挺费劲的，所以印象深刻。
+前段时间整理硬盘的时候翻出来，结果看CG的时候发现没打完，然后找资源发现更新了1.09，我在网上翻了一圈都没找到有资源，最后没办法去DL入正了，发出来给大家分享一下。
+最后贴一下作者的Ci-en：クロックサンドプロフィール – Ci-en（シエン） (dlsite.com)
+他的新作「IDOL歌撃大戦！」弄了挺长时间的，今年可以期待一下
+PS:如果游戏无法运行，请全英文路径+转区&lt;/p&gt;
+&lt;p&gt;販売日
+2018年01月04日&lt;/p&gt;
+&lt;p&gt;更新情報
+2021年11月07日
+更新情報&lt;/p&gt;
+&lt;p&gt;作者
+兼高双一&lt;/p&gt;
+&lt;p&gt;シナリオ
+兼高双一&lt;/p&gt;
+&lt;p&gt;イラスト
+兼高双一&lt;/p&gt;
+&lt;p&gt;年齢指定&lt;/p&gt;
+&lt;p&gt;18禁&lt;/p&gt;
+&lt;p&gt;作品形式&lt;/p&gt;
+&lt;p&gt;ロールプレイング音楽あり
+/ 学校探索型A・RPG・ADV&lt;/p&gt;
+&lt;p&gt;ファイル形式&lt;/p&gt;
+&lt;p&gt;アプリケーション&lt;/p&gt;
+&lt;p&gt;ジャンル&lt;/p&gt;
+&lt;p&gt;燃え おっぱい 制服 学校/学園 初体験 中出し 強制/無理矢理 和姦&lt;/p&gt;
+&lt;p&gt;ファイル容量&lt;/p&gt;
+&lt;p&gt;1GB&lt;/p&gt;
+&lt;p&gt;作品内容&lt;/p&gt;
+&lt;p&gt;吸血鬼として最初にするべきこととはHなことだった!&lt;/p&gt;
+&lt;p&gt;その日、碓氷影太は吸血鬼に襲われ吸血鬼になってしまった
+助けて貰った男に吸血鬼が生きるためには吸血するしかないと言われ、
+影太は吸血せざるを得ない状況に追い込まれる
+ただしその方法は手の平からの吸血であり血を吸わなくていい、とのこと
+そうして影太は校内で唯一吸血できる相手『八坂いつき』を追いかけることになる
+最初は触れる程度だった吸血も
+何者かに操られるかのように次第に過激になっていく……
+そしてとある出来事をきっかけに
+影太は八坂いつきを犯し、凌辱してしまうのだった
+困惑と肉欲に溺れる二人の前に
+次々と現れる力を持った吸血鬼たち
+その目的とは?白い吸血鬼とは?
+複雑な運命の歯車がやがて吸血鬼の深蒼へとたどり着く!
+はたして影太は望み通り、イチャイチャする日がやってくるのか!?
+戦闘はボス戦のみです
+アクション式とコマンド式、二つの戦闘モードで遊べます
+※このゲームの主人公は吸血鬼ですが血を吸ったりしません。普通にHします
+血液表現は破瓜表現以外ありません
+※このゲームはハッピーエンドしかありません。
+ネタバレ
+八坂いつきは吸血鬼ではありません。
+また吸血鬼になることもありません。
+基本CG23枚。差分600枚以上!&lt;/p&gt;</description></item><item><title>【自购】【SLG/生肉】異界廃墟～淫靡なる闇の贄～</title><link>https://v2acg.github.io/posts/sogcsgow8k4kgk7x/</link><pubDate>Mon, 09 Dec 2024 03:47:10 +0000</pubDate><guid>https://v2acg.github.io/posts/sogcsgow8k4kgk7x/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/0mT7HPCUyZa1" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;我似乎不小心买到了我最不擅长的弯弯绕绕一片漆黑没有小地图还有怪闲逛追人瞎跑只会撞机制鬼的恐怖游戏😭 虽然恐怖程度不断很高，除了初见杀后就是单纯的涩了 但耐不住我菜啊，一直迷路去不了下一关，看不到更多女鬼了😔&lt;/p&gt;
+&lt;p&gt;社团名
+ぐーすーか
+关注1,038&lt;/p&gt;
+&lt;p&gt;贩卖日
+2024年04月16日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;R18&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;动作有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;男主人公 3D作品 幽灵 恐怖 强势女 体型差 反向奸 男性受&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;124.57MB&lt;/p&gt;
+&lt;p&gt;概要
+1人称視点のホラーゲーム。闇の住人達に捕まらないように逃げ隠れながら廃墟からの脱出を目指します(捕まっても即死はしません)。
+主人公は非力な少年。敵につかまれば押し倒され搾精されてしまいます。
+異形要素は少なめです。
+※Unityで制作した3Dゲームです。必ず体験版での動作確認をお願いします。
+あらすじ
+日も暮れてしまった学校からの帰り道・・・
+あなたは怪異に遭遇し、謎の廃墟へと迷い込んでしまう。
+そこには闇にうごめく者たちが跋扈していた。
+ゲームについて
+・プレイ時間　1～2時間程度
+・敵キャラ　10種
+・Hシーン　基本アニメーション15種&lt;/p&gt;</description></item><item><title>【自购】【SLG/生肉】どエロ彼女</title><link>https://v2acg.github.io/posts/ks0004o804gg4ksq/</link><pubDate>Thu, 18 Jul 2024 05:30:54 +0000</pubDate><guid>https://v2acg.github.io/posts/ks0004o804gg4ksq/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/4cc4e76315553e25606419a1494ee885" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;一个很老的Flash游戏，虽然我也不知道是因为什么买了，导致我买了后一直在仓库吃灰，是最近翻到才想起来。顺便说一下，接下来的两个月我应该暂时不会更新，月底更完游戏后就暂时不再更了，我这边有点私事要忙，可能十月份才会回来
+どエロ彼女&lt;/p&gt;
+&lt;p&gt;社团名
+Hexenhaus
+关注1,186&lt;/p&gt;
+&lt;p&gt;贩卖日
+2009年06月20日&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;18禁&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;冒险有声音有音乐有动画&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;3D作品 萝 温馨 内射/中出 SM 拘束 肛交&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;合计 3.01GB&lt;/p&gt;
+&lt;p&gt;作品内容&lt;/p&gt;
+&lt;p&gt;Hexenhausがお送りする、なめらかアニメーション作品　第三弾フル3Dトゥーンレンダリングによる、ダイナミックな動きが特徴です。イラストのようなタッチのまま、女の子のリアルな動きを表現!
+&amp;lt;あらすじ&amp;gt;エッチで一途な女の子、深里玲音(みさと れいね)プレイヤーである貴方は、そんな彼女と同棲中のボーイフレンドです大学の課題であるレポートを今日中に終わらせたい貴方、しかし発情した彼女は、あの手この手で貴方を誘惑してきます。その誘惑に応じるのも無視し続けるのも貴方次第!現実にいるかのような我が儘さと、現実にはあり得ないほどブッ飛んだド変態さを併せ持つ彼女との、ほのぼのとした日常の一コマを、ゆっくりとお楽しみ下さい。
+&amp;lt;ゲーム内容&amp;gt;この作品は、好評を頂いた前々作「それ何てエロゲ? -エロ彼女-(RJ037107)」の完全版です。主観視点(彼氏視点)での対話ストーリーが追加され、世界観を楽しむ事が出来るようになりました。主な特徴は以下の通りです。(特徴)・全てのシーンが30fpsの、なめらか3Dアニメーション。・プレスコ(音声先行収録)を利用したリップシンクと、キャラクターの動きづけ。・物理演算プラグインを利用した、リアルな布・液体のアニメーション。・レンダリング段階での最小モザイク処理。・独自の液体音生成エンジンと、断面図。(完全版としての特徴)・前作のHシーンに台詞を加え、画像サイズを向上させてリニューアル。・追加Hシーンは、前作の倍以上の量を収録。・ヒロインとの対話形式によるストーリーを追加。・アルバムモードや、セーブ・ロード、Hシーン再生など、システムを充実化。・ボリュームたっぷりの完全版なのに、安い価格設定で販売!
+&amp;lt;値段設定の理由&amp;gt;この作品は当初、アップデートパッチとしてのリリースを予定していました。しかし、より完全に近い形で世に送り出したいという気持ちが強く、このような完全版という形での発表とさせて頂く事にしました。
+完全版という性質上、シーンの流用が存在するため、高価にしてしまうと「それ何てエロゲ? -エロ彼女-(RJ037107)」を購入して頂いた方々に申し訳が立ちません。ですので、【アップデート作品としての適正価格で完全版をリリースする】という方法を取らせて頂く事にしました。
+つまり「それ何てエロゲ? -エロ彼女-(RJ037107)」を購入済みの方にとっても、未購入の方にとっても、とてもリーズナブルな作品に仕上がっているかと思います。体験版をダウンロードして、気に入って頂けた方は、是非本作品をプレイしてみて下さい。
+自购证明：&lt;/p&gt;</description></item><item><title>【3D游戏/生肉】Delivery Of Cream 【度盘/1G】</title><link>https://v2acg.github.io/posts/o4kwwk0gws0woomw/</link><pubDate>Thu, 20 Jun 2024 12:20:59 +0000</pubDate><guid>https://v2acg.github.io/posts/o4kwwk0gws0woomw/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/fa3bd10647982e46d15e75c15f6f3b57" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;作者：D5  游戏官网：
+☆游戏简介：
+下班回家的你有一天，突然被传送到另一个世界…
+那里是所有的女人都成为淫魔，从男人那里榨取能量(精液)成为理所当然的世界…
+作为另一个世界的人，你可以用Delivery of Cream(通称:Delivery)
+我被迫工作了。
+被淫魔们和霍汶克鲁斯、克隆人一味榨取的日子开始了…
+■游戏内容
+·几乎H场景都是女性上位+正式演出。
+有一部分饮尿表现&lt;/p&gt;</description></item><item><title>【自购】【同人音声/生肉】【RJ01200722】 即おち!〜&amp;#8221;Sweet&amp;#8221;〜脈なし女子を即堕ち催淫→マイルドヤンキー春姫ちゃん!初心者パッチン練習台!ざけんな絶頂☆雄イキ体験!ベロチュー!ちんちん!わんわんお&amp;#8221;っ♪ 【度盘/12.9G】</title><link>https://v2acg.github.io/posts/8s4888c084sosoev/</link><pubDate>Sun, 16 Jun 2024 09:50:37 +0000</pubDate><guid>https://v2acg.github.io/posts/8s4888c084sosoev/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/fa61d64af49dadd86de1b92b72d0a64c" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;社团名
+上海飯店&lt;/p&gt;
+&lt;p&gt;贩卖日
+2024年06月08日 0点&lt;/p&gt;
+&lt;p&gt;系列名
+code:coral&lt;/p&gt;
+&lt;p&gt;作者
+上海飯店&lt;/p&gt;
+&lt;p&gt;剧情
+上海飯店&lt;/p&gt;
+&lt;p&gt;插画
+ゆぶね&lt;/p&gt;
+&lt;p&gt;声优
+伊倉える&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;18禁&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;音声・ASMR&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;WAV
+/ mp3&lt;/p&gt;
+&lt;p&gt;Dlsite 入正網址
+&lt;em&gt;:゜+。.☆.+&lt;/em&gt;✩⡱:゜☆★初回セール★☆&lt;em&gt;:゜+。.☆.+&lt;/em&gt;✩⡱:゜
+1,650円(税込)を、28日間限定で30%割引の1,155円にて販売致します!
++—-収録イラスト内訳—-+
+・スマホ待受　 　　　 /01枚
+・アートワーク 　　　 /01枚
+・パッケージイラスト /01枚
+・本編CG　　　　　　/01枚+03枚(差分)
+・キャラデザイラスト /01枚
+┗合計/08枚
+★★★★★★★★★★★★
++—チクチク言葉でキレても涎はでろでろ、アソコは痙攣、お尻は弛緩して奥まで咥えるクソ雑魚メス穴、春姫ちゃん♪—+
+見ての通り、金髪×ピアス×ジャージ×犬2匹となかなかイカつい女の子。春姫(はるき)ちゃん。
+「春に生まれた姫ちゃま♪」
+が由来の春姫ちゃん(お母様命名)、シリーズの中でも飛び抜けて警戒心&amp;amp;敵対心MAXのマイルドヤンキーです!
+危険度は、鬼!!
+なにせ口から出てくるワードの数々が痛い……「おまえさァ」「んだよ」「◯すかんな…」と恫喝まがいの言葉でお兄さんに圧を掛けてくるんです。
+それもそのはず、お兄さんもお兄さん……彼女に変な催○ばかり掛けてしまうからです。
+お兄さんがパッチン能力を授かる際に、夢の中で受けるチュートリアルをすっ飛ばして目が覚めてしまったそう……
+カスカスの指パッチンを聞かせるたびに、お兄さんすら意図しない複雑怪奇な催○が彼女を襲います♪
+『ぎもぢっ♪』
+気持ちよすぎて脳が焼き切れそうになった時に出る「ブチギレ喘ぎ」。
+前作から顕著でしたが、本作でも盛りだくさんです!
+絶頂時には声を失い、本当に気持ちよさそうに鳴いてくれます……♪
+催○を解く方法がわからない二人。お兄さんの上達なしには解放されません。
+プリプリしながら練習台になってくれる春姫ちゃんと、ポンコツすぎるお兄さん…♪
+おちんちんの感覚を強○的に共有させられ、悶絶しながら手コキてくれる優しい春姫ちゃん♪
+全力種付けピストンでブチギレ絶頂を繰り返し、正確なカウントが難しい絶頂の連続♪
+NTRでありながら、限りなく要素を薄くしたサッパリ系の寝取り作品となりました!
+狂犬女子に凄まれたり怒られたりしながらパッチンの上達を目指す、体育会系えっちコメディがここに登場です♪
+★トラック/フィニッシュタイム★&lt;/p&gt;</description></item><item><title>【3D/生肉/无码】Fap Interface [0.3.5]</title><link>https://v2acg.github.io/posts/k8sk8s400wo4ck8j/</link><pubDate>Fri, 07 Jun 2024 04:11:18 +0000</pubDate><guid>https://v2acg.github.io/posts/k8sk8s400wo4ck8j/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/773376" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;这游戏…怎么说呢 像是一个互动视频？（GIF）
+我找的时候是奔着足交去的 然后一共只有三段足交动画 还有一个是眼镜！&lt;/p&gt;
+&lt;p&gt;目前总共8个角色 每个角色5-6个可选姿势 四种服装（外加精液差分）
+建模质量还不错 不过不是我比较喜欢的 有点偏写实了
+还有刻板印象中欧美风格建模特别钟爱的脸部雀斑和皮肤黑点
+而且两个角色 四分之一的角色 是！眼！镜！&lt;/p&gt;
+&lt;p&gt;涩涩一次给一点能量 攒能量解锁人物 动画基本是几张GIF然后发射 可选内外
+卧室能最多能摆四个看板（也可以快速启动这个角色）
+右下角第一个是浴室 有部分角色有浴室动画 然后！洗澡都不摘眼镜！（感受到我的怨念了吗！）&lt;/p&gt;
+&lt;p&gt;右下角第二个是开头剧情中的三个恶魔 分别只有一段动画（算剧情？）
+应该是解锁到一定程度点进去会初次触发动画 不过我全解锁完了才来这边 因为流程真的巨快
+黄毛自娱自乐 红毛束缚 白毛触手 另外上图的蓝色双马尾有一个和红毛的双人选项&lt;/p&gt;
+&lt;p&gt;作者主页：
+如果没有我的存档自己点点几分钟也全解锁了
+然后估计这篇是不会再更新了 有一说一 对我而言缺点明显多于优点了&lt;/p&gt;</description></item><item><title>【RPG/生肉】特命少女アイギス・ピンク—</title><link>https://v2acg.github.io/posts/4wc8w8o4wogocgw7/</link><pubDate>Thu, 30 May 2024 02:50:34 +0000</pubDate><guid>https://v2acg.github.io/posts/4wc8w8o4wogocgw7/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/762004" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;[RJ01158977][No Future]特命少女アイギス・ピンク—&lt;/p&gt;
+&lt;p&gt;入正链接：点击访问
+作品信息&lt;/p&gt;
+&lt;p&gt;社团名
+No Future
+关注15,163&lt;/p&gt;
+&lt;p&gt;贩卖日
+2024年05月30日 0点&lt;/p&gt;
+&lt;p&gt;剧情
+端音乱希&lt;/p&gt;
+&lt;p&gt;插画
+ぷりんぷ&lt;/p&gt;
+&lt;p&gt;声优
+藤村莉央 / 梅原亜衣&lt;/p&gt;
+&lt;p&gt;年龄指定&lt;/p&gt;
+&lt;p&gt;18禁&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;角色扮演有声音有音乐&lt;/p&gt;
+&lt;p&gt;文件形式&lt;/p&gt;
+&lt;p&gt;软件&lt;/p&gt;
+&lt;p&gt;支持的语言&lt;/p&gt;
+&lt;p&gt;日文&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;女性视角 连续高潮 变身女主 羞辱 捆绑/紧缚 拘束 多人运动 触手&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;1.09GB&lt;/p&gt;
+&lt;p&gt;作品内容
+捕らわれた先輩を救出するため、少女は単身悪の組織に立ち向かう!
+ぴっちりスーツヒロイン×拘束×快楽責めRPG!
+戦闘中エロ10種(本番なし)
+エッチイベント20種
+—————————————————————————
+※このゲームは「RPGツクールMZ」で制作しています。
+体験版にて動作確認の上、ご購入ください。
+图片预览&lt;/p&gt;</description></item><item><title>【自购】【RPG/生肉】ハーレム!牧場らいふ DLC</title><link>https://v2acg.github.io/posts/swwwgswogwck4ogy/</link><pubDate>Thu, 16 May 2024 11:30:20 +0000</pubDate><guid>https://v2acg.github.io/posts/swwwgswogwck4ogy/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/%E3%80%90%E8%87%AA%E8%B4%AD%E3%80%91%E3%80%90rpg-%E7%94%9F%E8%82%89%E3%80%91%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0%E7%89%A7%E5%A0%B4%E3%82%89%E3%81%84%E3%81%B5-dlc" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;更に充実した、○リはーれむ孕ませスローライフ……&lt;/p&gt;
+&lt;p&gt;◆注意
+本製品は「ハーレム!牧場らいふ(RJ402453)」に新たな要素を追加するパッチとなります。
+別途、本編「ハーレム!牧場らいふ」本体が必要となります。&lt;/p&gt;
+&lt;p&gt;◆主な追加要素は五点
+1.新ヒロイン追加
+2.衣装着せ替え
+3.季節システム
+4.ボイス追加
+5.鉱山要素&lt;/p&gt;
+&lt;p&gt;本編でのヒロイン六名と新ヒロイン二名それぞれに声優ボイスが付きます。
+プレゼント時などのリアクションボイスが付き、「さそう」系のエッチがフルボイスになります。
+※4/26にDLC体験版を公開しました。体験版では春の月12日までを遊ぶことができます。DLC体験版でのセーブデータはDLC本編に引継ぎが可能です。
+DLC適用前ハーレム牧場無印版でのセーブデータは、DLC本編には使用できません。&lt;/p&gt;
+&lt;p&gt;街の存続のために、主人公との子作りをしてくれるヒロイン達……。
+本編での六名のヒロインに、出荷業を営むオリビア家の娘フィオナと前作で待望された町長ニーネの二人が追加されます。全員孕ませまくりましょう。
+ユイ(CV:佐藤しお)　ククル(CV:小町ういら)
+ルル・ルリ(CV:藍沢夏癒)
+はづき(CV:みもりあいの)　チョコ(CV:餅梨あむ)
+フィオナ(CV:藤村莉央)　ニーネ(CV:葉月ゆう)&lt;/p&gt;
+&lt;p&gt;追加ヒロイン紹介&lt;/p&gt;
+&lt;p&gt;●フィオナ(CV:藤村莉央)
+金髪オッドアイ白ワンピ少女。
+出荷業を営むオリビア家の娘。
+他ヒロイン達より三歳ほど年下の○リ枠。小さい身体でも頑張って子作りに励んでくれます。&lt;/p&gt;
+&lt;p&gt;●ニーネ(CV:葉月ゆう)
+街の町長。
+街の案内役として色々とお手伝いしてくれます。
+DLCでは、街の存続のため子作りにも参戦。&lt;/p&gt;
+&lt;p&gt;●オリビア※サブヒロイン
+フィオナの母親。出荷業者として主人公の牧場生活をサポートしてくれる金髪爆乳お姉さん。&lt;/p&gt;
+&lt;p&gt;四季の追加&lt;/p&gt;
+&lt;p&gt;◆四季の追加
+春夏秋冬で季節ごとにマップの外観が変わります。特定の季節にしか行けない場所なんかもあるかも…&lt;/p&gt;
+&lt;p&gt;追加要素の炭鉱システム。
+探索でレアアイテムゲット!&lt;/p&gt;
+&lt;p&gt;季節を彩るイベント。&lt;/p&gt;
+&lt;p&gt;パワーアップした着せ替えシステム&lt;/p&gt;
+&lt;p&gt;バザーに現れる衣装屋で服を購入可能に。
+入手した衣装を自由に組み合わせて立ち絵に表示可能。&lt;/p&gt;
+&lt;p&gt;ケモミミ制服、スク水セーラ―、等々……。
+性癖のままに組み合わせよう。&lt;/p&gt;</description></item><item><title>【自购】【RPG/生肉】彼女の診察</title><link>https://v2acg.github.io/posts/k4048k8ccg4w8w8g/</link><pubDate>Wed, 06 Mar 2024 12:40:34 +0000</pubDate><guid>https://v2acg.github.io/posts/k4048k8ccg4w8w8g/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/%E3%80%90%E8%87%AA%E8%B4%AD%E3%80%91%E3%80%90rpg-%E7%94%9F%E8%82%89%E3%80%91%E5%BD%BC%E5%A5%B3%E3%81%AE%E8%A8%BA%E5%AF%9F" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01161652】彼女の診察&lt;/p&gt;
+&lt;p&gt;dlsite链接：&lt;/p&gt;
+&lt;p&gt;自购证明&lt;/p&gt;
+&lt;p&gt;自由度比较低的游戏，不过是一部不错的小作品&lt;/p&gt;
+&lt;p&gt;社团名
+タニシとランタン&lt;/p&gt;
+&lt;p&gt;贩卖日
+2024年02月29日 16点&lt;/p&gt;
+&lt;p&gt;年龄指定
+18X&lt;/p&gt;
+&lt;p&gt;作品类型
+角色扮演有音乐&lt;/p&gt;
+&lt;p&gt;文件形式
+软件&lt;/p&gt;
+&lt;p&gt;分类&lt;/p&gt;
+&lt;p&gt;男主人公 耳环/装饰品 学生 被NTR 沉迷快乐/快乐堕落 调教 贫乳/微乳 白虎/无阴毛&lt;/p&gt;
+&lt;p&gt;支持的语言
+日语&lt;/p&gt;
+&lt;p&gt;文件容量
+327.72MB&lt;/p&gt;
+&lt;p&gt;男視点の寝取られRPG&lt;/p&gt;
+&lt;p&gt;■ストーリー
+幼馴染でずっと一緒にいた葵。
+そんな葵に主人公ヒロトは告白をして、付き合うことに…
+大学に一緒に行ったり…一緒に家に帰ったり…。
+順風満帆な生活をしていた。
+しかしそんな二人に不穏な影が…
+”BFA-5”という流行り病が、国中で流行。
+その流行り病に彼女がかかってしまう。
+そして二人は新しく近所にできたという”豪山医院”という診療所で診察してもらうことに。
+その”診察”から始まる寝取られ物語…&lt;/p&gt;
+&lt;p&gt;キャラクター&lt;/p&gt;
+&lt;p&gt;■葵(あおい)
+主人公ヒロトの幼馴染で同じ大学に通っている。少し天然な女の子。&lt;/p&gt;
+&lt;p&gt;■豪山剛(ごうやま つよし)
+豪山医院で働くお医者さん。
+なにやらインターネットにえっちな投稿をしているみたい。&lt;/p&gt;</description></item><item><title>【自购】【RPG/生肉】fragile キオクとキロク</title><link>https://v2acg.github.io/posts/kw8sk80o8kokko0n/</link><pubDate>Wed, 06 Mar 2024 12:30:31 +0000</pubDate><guid>https://v2acg.github.io/posts/kw8sk80o8kokko0n/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/%E3%80%90%E8%87%AA%E8%B4%AD%E3%80%91%E3%80%90rpg-%E7%94%9F%E8%82%89%E3%80%91fragile-%E3%82%AD%E3%82%AA%E3%82%AF%E3%81%A8%E3%82%AD%E3%83%AD%E3%82%AF" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;【RJ01130990】fragile キオクとキロク&lt;/p&gt;
+&lt;p&gt;dlsite链接：
+自购证明&lt;/p&gt;
+&lt;p&gt;买了很久看一直没人发顺手发了，一般般这游戏，没玩到结局&lt;/p&gt;
+&lt;p&gt;社团名
+Little Quartz&lt;/p&gt;
+&lt;p&gt;贩卖日
+2023年12月21日&lt;/p&gt;
+&lt;p&gt;更新信息
+2024年01月05日&lt;/p&gt;
+&lt;p&gt;年龄指定
+18X&lt;/p&gt;
+&lt;p&gt;作品类型&lt;/p&gt;
+&lt;p&gt;角色扮演 有音乐&lt;/p&gt;
+&lt;p&gt;支持的语言
+日语&lt;/p&gt;
+&lt;p&gt;分类
+大量汁/液 被NTR 内射/中出 淫乱 露出 多p/乱交 轮奸 粪便/排泄物&lt;/p&gt;
+&lt;p&gt;文件容量&lt;/p&gt;
+&lt;p&gt;255.05MB&lt;/p&gt;
+&lt;p&gt;ストーリー&lt;/p&gt;
+&lt;p&gt;無気力で毎日をなんとなく過ごしている「僕」が出会った一人の女性「レイム」。
+彼女との出会いが二人の人生を変えることに。
+「僕」と「彼女」の記憶と記録からなる全4章の物語です。
+彼女レイムが見つけたやりたいこと……それは屋外で裸になる露出行為でした。
+露出に夢中になっていく「彼女」と「僕」の運命とは……。&lt;/p&gt;
+&lt;p&gt;ゲーム概要&lt;/p&gt;
+&lt;p&gt;ジャンル:RPG
+主人公操作:1章は男性主人公、2,3章は女性主人公、4章はエンディング次第
+基本CG:約20
+回想有イベント:約50
+エンディング:4種類
+性経験ステータス、回想イベント全開放有。
+その他、付着した汚れを回想する回汁部屋もあります。
+また、一定の回数の行為などで称号を変更することが出来ます。
+称号を変更することでメニュー画面が変化します。&lt;/p&gt;</description></item></channel></rss>
