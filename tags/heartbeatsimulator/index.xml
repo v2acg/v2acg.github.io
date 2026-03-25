@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>HeartBeatSimulator on ACG资源导航站</title><link>https://v2acg.github.io/tags/heartbeatsimulator/</link><description>Recent content in HeartBeatSimulator on ACG资源导航站</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 29 Sep 2025 03:58:49 +0000</lastBuildDate><atom:link href="https://v2acg.github.io/tags/heartbeatsimulator/index.xml" rel="self" type="application/rss+xml"/><item><title>【SLG/官中】HeartBeatSimulator v0.5.x Beta【度盘/90MB】</title><link>https://v2acg.github.io/posts/okkskkkww8oosoq8/</link><pubDate>Mon, 29 Sep 2025 03:58:49 +0000</pubDate><guid>https://v2acg.github.io/posts/okkskkkww8oosoq8/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/tQk0YjKsX-" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;作者链接：
+预览&lt;/p&gt;
+&lt;p&gt;关于更新
+HeartBeatSimulator v0.5.x Beta を公開します。&lt;/p&gt;
+&lt;p&gt;主な変更内容は以下のとおりです。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;酸素の概念を追加
+・息とめや心拍数が高い場合に低下します&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;不整脈発作の追加
+・酸素が低い場合にQT延長 (収縮の遅延) が発生します
+・酸素が低く心室負荷が高い場合に心室頻拍 (TdeP VT) が発生します
+・心房細動 (Af) を治療せず放置した場合、偽性心室頻拍 (Pseudo VT) が発生します
+・心臓デバイスの電源がOFFの場合に心室頻拍が発生した場合、倒れて心室細動 (Vf) が発生します&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;CPR (心肺蘇生) モードの追加
+以下の場合に、倒れて失神しCPRモードに突入します (アップデートでさらに追加される予定です)
+・心臓デバイスの電源がOFF かつ 心室頻拍 (TdeP VT・Pseudo VT) が発生した場合
+・ハッキングモードで強制拍動を過度に連打した場合
+・デバッグメニュー の forceCPR ボタンを押した場合
+以下の行動をすることが出来ます
+・AED
+・心臓マッサージ
+・自動治療 (即時に蘇生させます)&lt;/p&gt;</description></item></channel></rss>

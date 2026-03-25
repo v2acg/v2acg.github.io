@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>重口RPG on ACG资源导航站</title><link>https://v2acg.github.io/tags/%E9%87%8D%E5%8F%A3rpg/</link><description>Recent content in 重口RPG on ACG资源导航站</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 25 Aug 2025 03:18:05 +0000</lastBuildDate><atom:link href="https://v2acg.github.io/tags/%E9%87%8D%E5%8F%A3rpg/index.xml" rel="self" type="application/rss+xml"/><item><title>【重口RPG/步兵】虫之J狱重制版v1.25 安卓+PC+MAC+LIN 官中步兵版 【更新/1.8G】</title><link>https://v2acg.github.io/posts/w0ck48ocwksggg89/</link><pubDate>Mon, 25 Aug 2025 03:18:05 +0000</pubDate><guid>https://v2acg.github.io/posts/w0ck48ocwksggg89/</guid><description>&lt;h2 id="本页为收录内容-点击下方按钮跳转查看内容详情"&gt;本页为收录内容 点击下方按钮跳转查看内容详情&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.v2dao.com/contents/v7C0B091L7DHcSP4" style="color: #fff; background: #e74c3c; padding: 14px 36px; border-radius: 8px; font-size: 1.3em; font-weight: bold; text-decoration: none; box-shadow: 0 4px 16px rgba(0,0,0,0.15); display: inline-block;"&gt;前往查看详情&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="简介"&gt;简介&lt;/h2&gt;
+&lt;p&gt;给大家带一个有点小重口的日式RPG游戏
+虫之J狱重制版v1.25 安卓+PC 官中步兵版
+（Insect Prison Remake）
+一句话：不喜欢虫X，兽X，不推荐
+这是一款[Eroism]作者者在6月份开始众筹的重口游戏
+一句话：不喜欢虫X，兽X，不推荐&lt;/p&gt;
+&lt;p&gt;游戏介绍：
+扮演 Leah，一名冒险者，接受任务去寻找最近发现的神秘岛屿上失踪的勘测队。
+任务的问题在于，岛上居住着许多巨型昆虫，它们非常乐意以 Leah 意想不到的方式欢迎她……
+更新日志
+(MOD) 更新为自定义 Godot 引擎
+(MOD) 按下时可快速跳过启动画面徽标
+(MOD) 改进了保存/加载屏幕
+(MOD) 将背景颜色饱和度降低了 10-30%
+(MOD) 手动改进了某些背景的 AI 错误
+(MOD) 更新了介绍的背景
+(MOD) 快速前往悬崖现在需要前往悬崖顶
+(MOD) 新的更新标志和痒痒链接现已本地化
+(MOD) 更柔和的蝉音效，作者 Monki0
+(MOD) 自动跳过设置现在可以改为“始终重复”
+(MOD) 更改了桌面版本上的特殊键
+(FIX) 保存设置后离开 Android 中的沉浸式模式
+(FIX) 在沼泽和深林中找不到任何东西的几率错误
+(FIX) 香在战斗中无法使用
+(FIX) 性欲/纯草药在战斗之外可用
+(FIX) 战斗结束不等待肖像完全下降
+(ADD) 做和接受反击时的肖像效果
+(ADD) 选项x1.5 动画速度
+（添加）另一个可用的保存槽（现在总共 6 个）
+（添加）快速保存和快速加载到 Windows/Linux/Mac
+（添加）按钮在场景中镜像动画
+（添加）文本淋浴场景到瀑布
+（添加）海舌事件和场景到海岸线
+（添加）新的蝉场景到瀑布
+（添加）游戏的德语和土耳其语翻译
+V1.2
+（MOD）调整地图文本使其更加一致
+（MOD）Boss 现在可以抵抗诱惑和暴露
+（MOD）重新生成和编辑所有地图背景（新艺术风格）
+（MOD）重新排列新地图背景中的卡片
+（MOD）恢复引擎的 RNG（比使用的插件更好）
+（MOD）Bugshrooms 不再强制触发战斗
+（MOD）在抑制剂配方中用奇怪的粘液代替粘液
+（FIX）商店中 Rumia 的名字翻译不正确
+（FIX）在 Wharf Roach G 上使用诱惑/爱情药水时锁定
+（FIX）在 Wharf Roach G 上使用裸露的乳房时锁定
+（FIX）Bugshroom 事件在最后一个动作时硬锁定
+（FIX）在 Android 上尝试强制沉浸模式
+（ADD）Android 屏幕现在旋转到横向位置
+（ADD）雷声对雨天的影响
+（ADD）世界地图功能（右上角的按钮）
+（添加）在世界地图上快速在各个区域之间旅行
+（添加）奇怪的粘液和荆棘布物品添加到下水道战利品
+（添加）蒲公英和利比多花物品添加到田野战利品
+（添加）蒲公英可用于增强茶的效果
+（添加）利比多花事件和场景添加到田野
+（REM）“返回小屋”按钮（世界地图取代了它）
+（REM）将 Linux AppImage 恢复为正常二进制文件
+V1.15
+(MOD) 将引擎迁移到版本 4.4.1
+(MOD) 将导出的二进制文件转换为 AppImage（仅限 Linux）
+(MOD) 圆盾效果（使用时，抓取攻击不会抵消守卫）
+(MOD) 替换了 UI 中的一些误导性/重复使用的图标
+(MOD) 恢复了“重复上一个”和单个操作的位置
+(FIX) 加载游戏时发生内存泄漏（更好的内存使用率）
+(FIX) 语言更改时数据加载过多
+(FIX) 某些设置中的按钮处理错误（主要是长动画）
+(FIX) 圆盾物品效果不起作用
+(FIX) 丢失后剩余的拦截计数器
+(FIX) 可以在同一回合对所有敌人使用诱惑动作
+(FIX) 跳过有时与重复上一个相同
+(FIX) 当它们是最后一个动作时锁定战斗的动作
+(ADD) 按下退出游戏时的确认提示
+(ADD) 在商店和窥视孔中与 Rumia 的额外对话
+(ADD) 淫荡精炼器的选项仅重置为淫秽 3
+(ADD) 乳房暴露（战斗开始时有机会迷惑敌人）
+（ADD）早晨露米娅场景和事件（较短的同意）
+（ADD）露米娅裸体示威场景和事件
+（ADD）复活节活动
+（REM）转动开始屏幕&lt;/p&gt;</description></item></channel></rss>
